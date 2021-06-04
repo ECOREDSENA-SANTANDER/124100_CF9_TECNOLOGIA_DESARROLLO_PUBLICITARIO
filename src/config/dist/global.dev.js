@@ -25,394 +25,84 @@ var _default = {
       nombreRuta: 'tema1',
       icono: 'far fa-file-alt',
       numero: '1',
-      titulo: 'Componentes',
+      titulo: 'Elementos a tener en cuenta antes de la redacción de textos publicitarios',
       desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '1.1',
-        titulo: 'Encabezados',
-        hash: 'encabezados'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.2',
-        titulo: 'Párrafos',
-        hash: 'parrafos'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.3',
-        titulo: 'Botones',
-        hash: 'botones'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.4',
-        titulo: 'Listas',
-        hash: 'listas'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.5',
-        titulo: 'Tablas',
-        hash: 'tablas'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.6',
-        titulo: 'Imagen',
-        hash: 'imagen'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.7',
-        titulo: 'Imagen Infográfica',
-        hash: 'imagen_infografica'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.8',
-        titulo: 'Video',
-        hash: 'video'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.9',
-        titulo: 'Bloques de texto destacado',
-        hash: 'texto_destacado'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.10',
-        titulo: 'Sliders',
-        hash: 'sliders'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.11',
-        titulo: 'Acordiones',
-        hash: 'acordiones'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.12',
-        titulo: 'Pestañas o Tabs',
-        hash: 'tabs'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.13',
-        titulo: 'Líneas de tiempo',
-        hash: 'lineas_tiempo'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.14',
-        titulo: 'Pasos',
-        hash: 'pasos'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.15',
-        titulo: 'Llamados a la acción',
-        hash: 'llamados_accion'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.16',
-        titulo: 'Tarjetas',
-        hash: 'tarjetas'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.17',
-        titulo: 'Tarjetas con número',
-        hash: 'tarjeta_numero'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '1.18',
-        titulo: 'Modal',
-        hash: 'modal'
-      }]
+      subMenu: []
     }, {
       nombreRuta: 'tema2',
       icono: 'far fa-file-alt',
       numero: '2',
-      titulo: 'Producción Audiovisual',
-      desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '2.1',
-        titulo: 'Infografía Animada',
-        hash: 't_2_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '2.2',
-        titulo: 'Video Motion',
-        hash: 't_2_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '2.3',
-        titulo: 'Motion + Presentador',
-        hash: 't_2_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '2.4',
-        titulo: 'Animación 2D',
-        hash: 't_2_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '2.5',
-        titulo: 'Video interactivo',
-        hash: 't_2_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '2.6',
-        titulo: 'Infografías',
-        hash: 't_2_6'
-      }]
+      titulo: 'Encabezados',
+      desarrolloContenidos: true
     }, {
       nombreRuta: 'tema3',
       icono: 'far fa-file-alt',
       numero: '3',
-      titulo: 'Fundamentación Textil',
-      desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
-      }]
+      titulo: 'Tipos de titulares',
+      desarrolloContenidos: true
     }, {
       nombreRuta: 'tema4',
       icono: 'far fa-file-alt',
       numero: '4',
-      titulo: 'Fundamentación Textil',
-      desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
-      }]
+      titulo: 'Subtítulos',
+      desarrolloContenidos: true
     }, {
       nombreRuta: 'tema5',
       icono: 'far fa-file-alt',
       numero: '5',
-      titulo: 'Fundamentación Textil',
+      titulo: 'Cuerpo de texto',
       desarrolloContenidos: true,
       subMenu: [{
         icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
+        numero: '5.1',
+        titulo: 'Técnicas para el desarrollo de cuerpos de texto',
+        hash: 't_5_1'
       }, {
         icono: 'far fa-file-alt',
-        numero: '3.2',
+        numero: '5.2',
         titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
+        hash: 't_5_2'
       }]
     }, {
       nombreRuta: 'tema6',
       icono: 'far fa-file-alt',
       numero: '6',
-      titulo: 'Fundamentación Textil',
-      desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
-      }]
+      titulo: 'Relación entre texto e imagen',
+      desarrolloContenidos: true
     }, {
       nombreRuta: 'tema7',
       icono: 'far fa-file-alt',
       numero: '7',
-      titulo: 'Fundamentación Textil',
-      desarrolloContenidos: true,
-      subMenu: [{
-        icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
-      }]
+      titulo: 'El eslogan',
+      desarrolloContenidos: true
     }, {
       nombreRuta: 'tema8',
       icono: 'far fa-file-alt',
       numero: '8',
-      titulo: 'Fundamentación Textil',
+      titulo: 'Redacción para medios audiovisuales',
       desarrolloContenidos: true,
       subMenu: [{
         icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-        hash: 't_3_1'
+        numero: '8.1',
+        titulo: 'Formatos de comunicación audiovisual',
+        hash: 't_8_1'
       }, {
         icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
+        numero: '8.2',
+        titulo: 'Datos a tener en cuenta para el desarrollo de textos en formatos audiovisuales',
+        hash: 't_8_2'
       }]
     }, {
       nombreRuta: 'tema9',
       icono: 'far fa-file-alt',
       numero: '9',
-      titulo: 'Fundamentación Textil',
+      titulo: 'Uso de las figuras retóricas en el mensaje publicitario',
       desarrolloContenidos: true,
       subMenu: [{
         icono: 'far fa-file-alt',
-        numero: '3.1',
-        titulo: 'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+        numero: '9.1',
+        titulo: 'Principales figuras retóricas utilizadas en la publicidad',
         hash: 't_3_1'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.2',
-        titulo: 'Identificación fibras por combustión',
-        hash: 't_3_2'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.3',
-        titulo: 'Clasificación de los hilos',
-        hash: 't_3_3'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.4',
-        titulo: 'Clasificación de tejidos',
-        hash: 't_3_4'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.5',
-        titulo: 'Caracterización de los tejidos',
-        hash: 't_3_5'
-      }, {
-        icono: 'far fa-file-alt',
-        numero: '3.6',
-        titulo: 'Procesos textiles',
-        hash: 't_3_6'
       }]
     }],
     subMenu: [{
@@ -520,61 +210,78 @@ var _default = {
     }]
   },
   referencias: [{
-    referencia: 'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L'
+    referencia: 'Arens, W. (2002). Publicidad. Mc Graw Hill.'
   }, {
-    referencia: 'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947'
+    referencia: 'Coll, P. y Micó, J. L. (2018). Marketing y comunicación en la nueva economía. Editorial UOC.'
   }, {
-    referencia: 'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.'
+    referencia: 'Davara, A. M. (1992). Estrategias de comunicación en marketing. Edit. Dossat S.A.'
   }, {
-    referencia: 'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549'
+    referencia: 'Estrella, A. M. y Segovia, C. (2016). Comunicación integrada de marketing. ESIC Editorial.'
   }, {
-    referencia: 'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. '
+    referencia: 'Moline, M. (2002). La fuerza de la publicidad. Mc Graw Hill. '
   }, {
-    referencia: 'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241'
+    referencia: 'Polanco, J. A. (2005). Guía de bolsillo para copywriters. Poliantea.'
   }, {
-    referencia: 'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551'
+    referencia: 'Reimers Design. (s.f.). Pequeño diccionario del diseñador.',
+    link: 'https://cutt.ly/VyDzeWh'
   }, {
-    referencia: 'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-    link: 'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728'
+    referencia: 'Retoricas.com (2009). Las figuras retóricas',
+    link: 'https://www.retoricas.com/ '
+  }, {
+    referencia: 'San Martín, M. (s.f.). Figuras literarias. ',
+    link: 'https://sites.google.com/site/ayenhuelugardivertido/figuras-literarias'
+  }, {
+    referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC. ',
+    link: 'https://www.retoricas.com/ '
   }],
   glosario: [{
-    termino: 'MoodBoard',
-    significado: 'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.'
+    termino: 'Afiche',
+    significado: 'galicismo por cartel. La palabra afiche proviene, en su etimología, del latín affictum que se refiere a algo pegado o adherido. De allí  pasó al francés affiche con el mismo significado. '
   }, {
-    termino: 'Suftware',
-    significado: 'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.'
+    termino: 'Animación',
+    significado: 'proceso de secuenciación de imágenes fijas en rápida sucesión para dar el efecto de movimiento en directo.'
   }, {
-    termino: 'Pirognóstico',
-    significado: 'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.'
+    termino: 'Boceto',
+    significado: 'también llamado esbozo o borrador, es un dibujo hecho a mano alzada, utilizando lápiz, papel y goma de borrar, elaborado de forma esquemática y sin preocuparse de los detalles o terminaciones para representar ideas, lugares, personas u objetos.'
   }, {
-    termino: 'Áectores',
-    significado: 'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.'
+    termino: 'Call To Action',
+    significado: 'por sus siglas en inglés se refiere a “llamada a la acción” y es un término que se utiliza en la publicidad y hace referencia a una acción que genera una respuesta inmediata.'
   }, {
-    termino: 'Moda',
-    significado: 'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.'
+    termino: 'Corrector',
+    significado: 'persona encargada de revisar, y en su caso corregir, los textos. Se puede diferenciar entre el corrector de textos o corrector de pruebas y el corrector de estilo. El primero se encarga de corregir los posibles errores tipográficos, faltas de ortografía o errores en la transcripción de un texto. El corrector de estilo, además de lo anterior, también corrige fallos referidos al estilo, tales como determinadas faltas de concordancia, barbarismos, reiteraciones, etc. '
   }, {
-    termino: 'Diseño',
-    significado: 'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.'
+    termino: 'Cuerpo de texto',
+    significado: 'también llamado bloque de texto o galera, es el texto principal de cualquier documento; el cuerpo del documento. También se refiere a cualquier texto utilizado para simular cuerpo de texto, por ejemplo, en la preparación de maquetas de presentación. Con frecuencia se utilizan con este objeto textos en latín o griego (Cotton, 1994). '
   }, {
-    termino: 'Tipología',
-    significado: 'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.'
+    termino: 'Encabezado',
+    significado: 'título, cabeza o parte superior de una información.'
   }, {
-    termino: 'Bidimensional',
-    significado: 'que se representa según su altura y su anchura y no su profundidad.'
+    termino: 'Eslogan',
+    significado: '(slogan). Término de origen inglés utilizado para recordar una marca o un producto, por medio de una frase de fácil memorización, en los mensajes publicitarios. '
   }, {
-    termino: 'Interés Inferior del menor',
-    significado: 'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.'
+    termino: 'Guion',
+    significado: 'plan a escala reducida de un libro o una secuencia cinematográfica, utilizado para anticipar y planificar un diseño con muchas etapas. '
   }, {
-    termino: 'Interseccionalidad',
-    significado: 'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.'
+    termino: 'Mensaje',
+    significado: 'serie organizada de signos según un código, con la intención de comunicar. En la teoría de la comunicación, un mensaje es una serie de información seleccionada y codificada por un emisor, transmitida por un soporte y difundida a través de un canal, destinado a un receptor capaz de decodificarla y reaccionar. '
   }, {
-    termino: 'Interés superior del menor',
-    significado: 'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.'
+    termino: 'Pie',
+    significado: 'texto explicativo que acompaña a una imagen, tabla, fórmula, etc., generalmente en su parte inferior. Parte inferior de un impreso o libro.'
+  }, {
+    termino: 'Publicidad',
+    significado: 'proceso y acción de comunicación que se difunde a través de los medios de comunicación colectiva, siendo el término genérico de anuncio su contenido específico. La publicidad pretende dar a conocer un producto, una idea, un servicio, una imagen, sobre el público consumidor, para influir en su compra y aceptación. '
+  }, {
+    termino: 'Semántica',
+    significado: 'Ciencia que estudia los significados de las palabras en su desarrollo y cambios dentro de una sociedad determinada.  Estudio del significado de los signos lingüísticos y sus combinaciones, desde un punto de vista sincrónico o diacrónico.'
+  }, {
+    termino: 'Semiótica',
+    significado: 'Del griego semeion, que significa señal, y logos, que significa tratado o teoría, la semiología o semiótica es la ciencia que estudia la vida social de los signos.'
+  }, {
+    termino: 'Texto',
+    significado: 'escrito publicitario que se utiliza para imprimir en el propio anuncio gráfico o para locución de un anuncio televisivo o una cuña radiofónica. En publicidad se distingue mucho entre titulares y textos, ya que van próximos pero no son lo mismo.'
+  }, {
+    termino: 'Titular',
+    significado: 'Texto principal que encabeza una pieza publicitaria y que normalmente transmite una parte clave del mensaje. Texto que encabeza una información de prensa.'
   }],
   complementario: [{
     texto: 'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
