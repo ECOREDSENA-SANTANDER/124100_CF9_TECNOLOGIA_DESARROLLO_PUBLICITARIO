@@ -4,4 +4,5 @@
     "source.fixAll": true
   },
   "eslint.run": "onSave",
+  "compile-hero.disable-compile-files-on-did-save-code": false,
 }

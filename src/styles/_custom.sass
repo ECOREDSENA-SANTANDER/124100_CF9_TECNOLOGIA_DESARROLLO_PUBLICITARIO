@@ -1,0 +1,126 @@
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F6F6F6
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    
+
+.imgc
+  justify-content: center!important
+  display: block
+  margin: 0 auto
+
+.fond1
+  background-color: #DEF2F4 !important
+
+.fond2
+  background-color: #ECE9F4 !important
+
+
+.bloque-texto-a.color-secundario
+    background-color: #EBEBEE
+
+.bloque-texto-a.color-secundario::before
+    background-color: #7D6EB2
+.colc
+  float: none !important
+  margin-left: auto !important
+  margin-right: auto !important
+
+.hr1
+  border: 1px solid #AFAFAF
+ 
+.hr2
+  border: 1px solid #AFAFAF
+  margin-left: 1.5rem
+  margin-right: 1.5rem
+  
+.sep
+  border: 1px solid #AFAFAF
+  margin-bottom: 1.5rem
+  margin-left: 4rem
+
+.sep2
+  border: 1px solid #AFAFAF
+  margin-bottom: 1.5rem !important
+  overflow: visible
+  box-sizing: content-box
+  
+
+.bl-gr
+  background-color: #CAEAEE !important
+
+.img-200
+  img   
+   width: 200px
+
+.error
+  background-color: #f3ef0b !important
+  
+.pasos-a__circle div 
+    color: #7D6EB2 !important
+
+.pasos-a.color-primario .pasos-a__circle
+    background-color: #ffffff !important
+    border: 3px solid #7D6EB2
+
+.cajon2.color-primario::before
+  background-color: #26AAB7 !important
