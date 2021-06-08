@@ -9,7 +9,7 @@
     
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.align-items-center.justify-content-between
-        .col-12.col-lg-auto.justify-content-md-center.mb-4
+        .col-12.col-lg-auto.mb-4.img-200.row.justify-content-around.align-items-center
           
             figure
             img(src='@/assets/tema1/imgt1-1.svg', alt='Texto que describa la imagen')

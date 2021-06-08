@@ -24,13 +24,6 @@
     #t_5_2.titulo-segundo
       h2 5.2 Herramientas para la redacción del body copy
 
-    .cajon.color-primario.p-4.mb-4.error.row
-      .col-lg.align-self-center.error
-
-        p El subtitular cumple un propósito similar al del encabezado: comunicar puntos claves de venta o información sobre la marca. Por lo general, este elemento se ubica arriba o abajo del titular en forma de oración corta; cuando está en la parte superior se conoce como antetítulo. La información que genera el subtítulo es importante para el desarrollo del mensaje, generando datos relacionados con puntos claves de la marca, como un beneficio secundario muy relevante y sirve de puente para reforzar la inquietud por leer todo el anuncio. Su tipografía por lo general es más grande que la del cuerpo del texto, pero menor que la del encabezado. 
-      .col-auto.align-self-center.m-5.img-200
-        figure.imgc
-          img(src='@/assets/tema5/imgt5-2.svg', alt='Texto que describa la imagen')
     
     PasosA.color-primario.my-5(tipo="n")
       div

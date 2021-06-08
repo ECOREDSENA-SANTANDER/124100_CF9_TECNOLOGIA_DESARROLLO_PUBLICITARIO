@@ -95,55 +95,55 @@ export default {
         titulo: 'Demostración',
         texto:
           'Es un recurso que se explotó en programas de televisión en los que se dedicaban horas enteras a mostrar el uso de un producto. Es un formato muy obvio si se tiene en cuenta que a través de un video es posible mostrar de forma clara, real y convincente el uso de un producto en función de sus beneficios y ventajas competitivas. El texto aquí es principal, pues define el guion y los elementos que se van a exaltar, este formato es muy dado para productos de aseo, funciones específicas de un automóvil o el manejo de una herramienta o utensilio nuevo.',
-        imagen: require('@/assets/tema8/imgt8-3.svg'),
+        imagen: require('@/assets/tema8/imgt8-3.jpg'),
       },
       {
         titulo: 'Problema solución',
         texto:
           'Se muestra a una marca solucionando una situación difícil y particular del mercado objetivo, por lo general expone una escena cotidiana en la que el consumidor resuelve un problema con el producto o servicio que se está anunciando. Este formato es muy dado para productos del hogar, insecticidas o servicios especializados como seguros. En este formato la redacción hace énfasis en diálogos y comentario de la efectividad de la marca anunciada.',
-        imagen: require('@/assets/tema8/imgt8-4.svg'),
+        imagen: require('@/assets/tema8/imgt8-4.jpg'),
       },
       {
         titulo: 'Música y canto',
         texto:
           'Este formato crea una atmósfera y un estado de ánimo especiales. Es muy utilizado en bebidas como el café, las gaseosas y las cervezas. Permite mostrar el producto en acción acompañado de música y efectos sonoros. En este formato el texto se centra en las características del producto y en la intencionalidad de las mismas, así como el jingle que acompaña el audiovisual.',
-        imagen: require('@/assets/tema8/imgt8-5.svg'),
+        imagen: require('@/assets/tema8/imgt8-5.jpg'),
       },
       {
         titulo: 'Testimoniales',
         texto:
           'Aquí un vocero proporciona un alto nivel de credibilidad al mensaje, en este punto es viable utilizar expertos, celebridades o usuarios satisfechos. El espectador siente un nivel de confianza superior y se siente identificado. Es muy útil para productos alimenticios, medicinas, aseo personal y servicios. En este punto el texto se centra en el guion de vocero, pero debe estar ligado a la actitud y naturalidad del actor.',
-        imagen: require('@/assets/tema8/imgt8-6.svg'),
+        imagen: require('@/assets/tema8/imgt8-6.jpg'),
       },
       {
         titulo: 'Diálogo',
         texto:
           'Presenta conversaciones entre dos o más personajes, es importante que se redacte una conversación creíble y natural que dé dinamismo al anuncio; este describe una escena cotidiana en la que interactúan familiares o amigos utilizando la marca.',
-        imagen: require('@/assets/tema8/imgt8-7.svg'),
+        imagen: require('@/assets/tema8/imgt8-7.jpg'),
       },
       {
         titulo: 'Viñetas',
         texto:
           'Es un formato creativo que implica una planeación más dedicada, se realiza a través de anuncios cortos que se van hilando entre sí y cuentan una historia secuenciada. La redacción está enfocada en contar la historia. Este formato permite enganchar al espectador, crea interés en la marca y genera posicionamiento.',
-        imagen: require('@/assets/tema8/imgt8-8.svg'),
+        imagen: require('@/assets/tema8/imgt8-8.jpg'),
       },
       {
         titulo: 'Narración',
         texto:
           'Es tal vez el formato más efectivo para el desarrollo de publicidad en redes sociales y conocido en la actualidad como storytelling. Se utiliza para contar historias lineales que tienen implícitas diferentes emociones y sensaciones a través del drama, a veces combinado con humor y ficción. Este formato le proporciona mucha personalidad a la marca, puede hacer énfasis en el beneficio que esta le proporciona al mercado objetivo y aumenta su posicionamiento.',
-        imagen: require('@/assets/tema8/imgt8-9.svg'),
+        imagen: require('@/assets/tema8/imgt8-9.jpg'),
       },
       {
         titulo: 'Animación',
         texto:
           'Es una técnica que se puede combinar con otros formatos. Los personajes, las caricaturas y las demostraciones tridimensionales permiten apoyar de forma contundente el mensaje. Casos en los que se requiere una explicación detallada del funcionamiento de un producto o servicio, productos para niños, el efecto de un medicamento en el cuerpo, el proceso que realiza una máquina internamente, entre otros, pueden ser los usos más significativos de este formato audiovisual. La redacción tiene aquí un papel preponderante, pues implica el diseño del guion que servirá de base para el desarrollo de las animaciones y los textos de apoyo en el audiovisual final, que reforzarán el mensaje.',
-        imagen: require('@/assets/tema8/imgt8-10.svg'),
+        imagen: require('@/assets/tema8/imgt8-10.jpg'),
       },
       {
         titulo: 'Directos',
         texto:
           'Conocidos en la actualidad como transmisiones en vivo, son un tipo de formatos sencillos y comunes, además de fácil realización por parte de cualquier persona. Este formato combina música, entretenimiento e información, es muy eficaz para hacer demostraciones, concursos o procesos de aprendizaje en torno a una marca.',
-        imagen: require('@/assets/tema8/imgt8-11.svg'),
+        imagen: require('@/assets/tema8/imgt8-11.jpg'),
       },
     ],
   }),
