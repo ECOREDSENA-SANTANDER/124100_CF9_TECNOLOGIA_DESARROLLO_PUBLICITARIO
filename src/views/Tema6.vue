@@ -12,7 +12,7 @@
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
-        .col-auto.justify-content-md-center
+        .col-12.col-lg-auto.justify-content-md-center.mb-4
           .mb-0.colc
             figure
             img(src='@/assets/tema6/imgt6-1.svg', alt='Tipos de titulares')

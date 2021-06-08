@@ -203,8 +203,8 @@ var _default = {
       regional: 'Regional Santander'
     }],
     gestoresRepositorio: [{
-      nombre: 'Brayan Stiven Pinto Diaz',
-      cargo: ['Desarrollo front-end', 'Validación de recursos'],
+      nombre: 'Jorge Leonardo Camacho Pardo',
+      cargo: ['Desarrollo front-end'],
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima'
     }]

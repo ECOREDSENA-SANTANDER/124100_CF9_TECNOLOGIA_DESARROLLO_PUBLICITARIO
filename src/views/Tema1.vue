@@ -9,7 +9,7 @@
     
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.align-items-center.justify-content-between
-        .col-auto.justify-content-md-center
+        .col-12.col-lg-auto.justify-content-md-center.mb-4
           
             figure
             img(src='@/assets/tema1/imgt1-1.svg', alt='Texto que describa la imagen')
@@ -49,7 +49,7 @@
           .crd_01__txt
             p #[strong Menos es más:] no excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
       
-      .col-3.p-4.mb-lg-0
+      .col-3.p-4.mb-lg-0.d-none.d-lg-flex
          img(src='@/assets/tema1/imgt1-6.svg' alt='AvatarTop' ).class 
 
 

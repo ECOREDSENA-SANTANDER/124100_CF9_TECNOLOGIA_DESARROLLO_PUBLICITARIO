@@ -7,17 +7,16 @@
         span 5
       h1 Cuerpo de texto
     .row.bl-gr
-      .col-auto.align-self-center.m-5.img-200
-        figure.imgc
-          img(src='@/assets/tema5/imgt5-1.svg', alt='Texto que describa la imagen')
+      .col-12.col-lg-auto.justify-content-md-center.m-5.img-200.mb-4
+        .mb-0.colc
+          figure
+            img(src='@/assets/tema5/imgt5-1.svg', alt='Texto que describa la imagen')
 
-      .col-lg.align-self-center.error
-          //-.h4 Comunicación ATL
-            br
+      .col-lg.align-self-center
 
           p También conocido como body copy, es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen; además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador. 
           br
-          a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/Propuesta_metodologica.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     br
@@ -27,13 +26,11 @@
 
     .cajon.color-primario.p-4.mb-4.error.row
       .col-lg.align-self-center.error
-        //-.h4 Comunicación ATL
-          br
 
-        p También conocido como body copy, es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen; además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador. 
+        p El subtitular cumple un propósito similar al del encabezado: comunicar puntos claves de venta o información sobre la marca. Por lo general, este elemento se ubica arriba o abajo del titular en forma de oración corta; cuando está en la parte superior se conoce como antetítulo. La información que genera el subtítulo es importante para el desarrollo del mensaje, generando datos relacionados con puntos claves de la marca, como un beneficio secundario muy relevante y sirve de puente para reforzar la inquietud por leer todo el anuncio. Su tipografía por lo general es más grande que la del cuerpo del texto, pero menor que la del encabezado. 
       .col-auto.align-self-center.m-5.img-200
         figure.imgc
-          img(src='@/assets/tema5/imgt5-1.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/tema5/imgt5-2.svg', alt='Texto que describa la imagen')
     
     PasosA.color-primario.my-5(tipo="n")
       div
