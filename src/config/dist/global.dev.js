@@ -106,11 +106,6 @@ var _default = {
       }]
     }],
     subMenu: [{
-      nombreRuta: 'actividad',
-      icono: 'far fa-question-circle',
-      titulo: 'Actividad didáctica',
-      desarrolloContenidos: true
-    }, {
       nombreRuta: 'glosario',
       icono: 'fas fa-sort-alpha-down',
       titulo: 'Glosario'
@@ -139,46 +134,28 @@ var _default = {
     },
     contenidoInstruccional: [{
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico',
+      cargo: 'Asesor metodológico y pedagógico',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
     }, {
-      nombre: 'Astrid Lili Puerta',
-      cargo: 'Experta temática',
-      centro: 'Centro Agropecuario de Buga',
-      regional: 'Regional valle'
+      nombre: 'Manuel Augusto Arias López',
+      cargo: 'Instructor-Experto temático',
+      centro: 'Centro de Comercio y Servicios',
+      regional: 'Regional Quindío'
     }, {
-      nombre: 'Javier Enrique Santana',
-      cargo: 'Experto temático',
-      centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital'
-    }, {
-      nombre: 'Michael Andrés Cortés Caro',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible'
-    }, {
-      nombre: 'Mauricio Jiménez Fajardo',
-      cargo: 'Experto temático',
-      centro: 'Ministerio de Ambiente y Desarrollo Sostenible'
-    }, {
-      nombre: 'Manuel Alejandro Garzón Cárdenas',
-      cargo: 'Experto temático',
-      centro: 'Deutsche Gesellschaft für',
-      regional: 'Internationale Zusammenarbeit (GIZ)'
-    }, {
-      nombre: 'Liliana Victoria Morales Gualdrón',
+      nombre: 'Andrés Felipe Velandia Espitia',
       cargo: 'Diseñador instruccional',
-      centro: 'Centro para la Industria y la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital'
-    }, {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Evaluador instruccional',
       centro: 'Centro de Diseño y Metrología',
       regional: 'Regional Distrito Capital'
     }, {
+      nombre: 'Vilma Lucía Perilla Méndez',
+      cargo: 'Evaluadora Instruccional',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
+      regional: 'Regional Distrito Capital'
+    }, {
       nombre: 'Julieth Paola Vital López',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
+      cargo: 'Correctora de estilo',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital'
     }],
     desarrolloProducto: [{
@@ -188,24 +165,25 @@ var _default = {
       regional: 'Regional Santander'
     }, {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Integración de recursos y pruebas',
+      cargo: 'Soporte organizacional',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
-    }, {
-      nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-      cargo: 'Diseño web y Producción Audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander'
-    }, {
-      nombre: 'Edward Leonardo Pico Cabra',
+    }, //- {
+    //- nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+    //- cargo: 'Diseño web y Producción Audiovisual',
+    //- centro: 'Centro Industrial del Diseño y la Manufactura',
+    //- regional: 'Regional Santander',
+    //- },
+    {
+      nombre: 'Jorge Leonardo Camacho Pardo',
       cargo: 'Desarrollo Front-End',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
     }],
     gestoresRepositorio: [{
-      nombre: 'Jorge Leonardo Camacho Pardo',
-      cargo: ['Desarrollo front-end'],
-      centro: 'Centro de comercio y servicios',
+      nombre: 'Milady Tatiana Villamil Castellanos',
+      cargo: ['Validación y vinculación en plataforma LMS'],
+      centro: 'Centro de Comercio y Servicios',
       regional: 'Regional Tolima'
     }]
   },
