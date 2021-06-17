@@ -55,14 +55,6 @@ export default {
         numero: '5',
         titulo: 'Cuerpo de texto',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_5_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',

@@ -21,8 +21,8 @@
             i.fas.fa-file-download
     br
     br
-    #t_5_2.titulo-segundo
-      h2 5.2 Herramientas para la redacción del body copy
+   
+      h4 Herramientas para la redacción del body copy
 
     
     PasosA.color-primario.my-5(tipo="n")
