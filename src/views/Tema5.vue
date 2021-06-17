@@ -21,8 +21,7 @@
             i.fas.fa-file-download
     br
     br
-   
-      h4 Herramientas para la redacción del body copy
+    h3 Herramientas para la redacción del body copy
 
     
     PasosA.color-primario.my-5(tipo="n")
