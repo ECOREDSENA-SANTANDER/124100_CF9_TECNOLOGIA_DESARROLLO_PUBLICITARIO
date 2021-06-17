@@ -142,6 +142,11 @@ var _default = {
       cargo: 'Correctora de estilo',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital'
+    }, {
+      nombre: 'José Gabriel Ortiz Abella',
+      cargo: 'Corrector de estilo',
+      centro: 'Centro para la Industria y la Comunicación Gráfica',
+      regional: 'Regional Distrito Capital'
     }],
     desarrolloProducto: [{
       nombre: 'Francisco José Lizcano Reyes',
@@ -153,6 +158,11 @@ var _default = {
       cargo: 'Soporte organizacional',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
+    }, {
+      nombre: 'Jesus Antonio Vecino Valero',
+      cargo: 'Diseño web ',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander'
     }, //- {
     //- nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
     //- cargo: 'Diseño web y Producción Audiovisual',
@@ -162,6 +172,11 @@ var _default = {
     {
       nombre: 'Jorge Leonardo Camacho Pardo',
       cargo: 'Desarrollo Front-End',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander'
+    }, {
+      nombre: 'Veimar Celis Melendez',
+      cargo: 'Validación de diseño y contenido',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
     }],
