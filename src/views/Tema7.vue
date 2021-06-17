@@ -24,7 +24,7 @@
         figure.imgc
           img(src='@/assets/tema7/imgt7-1.svg', alt='Texto que describa la imagen')
 
-    .crd_02.p-0.my-4
+    .crd_03.p-0.my-4
       .crd_02__icon.m-3
         img(src='@/assets/tema7/imgt7-2.svg' alt='AvatarTop' ).class 
       .crd_02__txt.m-4

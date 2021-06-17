@@ -19,7 +19,7 @@
             
         .col-lg.justify-content-md-center
           .bloque-texto-a__texto.p-4
-            p Cada campaña es única y particular y el mensaje con que se llega al mercado también. El diseño de los titulares debe estar vinculado y ser coherente con el concepto creativo; es decir, el tono de la comunicación y estilo con que se haya planeado el diseño; así, se pueden encontrar los siguientes:
+            p Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:
   
     .row.justify-content-around.align-items-center.m-5
       .col-md-6.mr-5.row

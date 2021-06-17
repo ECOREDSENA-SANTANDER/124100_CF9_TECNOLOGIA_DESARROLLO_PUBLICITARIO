@@ -24,7 +24,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.align-self-center
             .h4 Titular directo
-            p Es imperativo; es decir, de mandato. La teoría publicitaria dice que el ser humano por evolución está diseñado para recibir y ejecutar órdenes. Sin embargo, la eficacia de los Call To Action imperativos es cada vez menor por el uso frecuente y abusivo que se le da en la publicidad. Expresiones como “inscríbete”, “venga hoy mismo” o “llámenos ahora” son cortos y llamativos, pero pueden ser poco relevantes e identificar en casi nada al mercado objetivo. Entre mejor se hable al mercado, mejor será la interacción con él.
+            p Es imperativo; es decir, de mandato. La teoría publicitaria dice que el ser humano por evolución está diseñado para recibir y ejecutar órdenes. Sin embargo, la eficacia de los #[strong Call To Action] imperativos es cada vez menor por el uso frecuente y abusivo que se le da en la publicidad. Expresiones como #[strong “inscríbete”, “venga hoy mismo” o “llámenos ahora”] son cortos y llamativos, pero pueden ser poco relevantes e identificar en casi nada al mercado objetivo. Entre mejor se hable al mercado, mejor será la interacción con él.
         
           .col-md-6
             figure

@@ -28,7 +28,7 @@
           .crd_01__icon.m-3
             img(src='@/assets/tema1/imgt1-2.svg' alt='AvatarTop' ).class 
           .crd_01__txt
-            p #[strong Tener un argumento de venta claro: :] este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
+            p #[strong Tener un argumento de venta claro:] este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
         .hr1
 
         .crd_01.p-0

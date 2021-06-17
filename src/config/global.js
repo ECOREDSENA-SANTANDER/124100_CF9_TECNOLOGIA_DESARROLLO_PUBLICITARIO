@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Redacción de textos publicitarios.',
+    componenteFormativo: 'Redacción de textos publicitarios',
     descripcionCurso:
       'Los textos publicitarios han sido, son y seguirán siendo un elemento fundamental en la publicidad, puesto que no se puede hacer un anuncio audiovisual sin que antes haya sido escrito. De la misma forma, los eslóganes y titulares de los anuncios gráficos representan una parte primordial del mensaje y requieren conocimiento, creatividad y análisis para lograr resultados atractivos y persuasivos. El rol del redactor junto con el diseñador gráfico son la base para la construcción del mensaje publicitario, el concepto y en muchas ocasiones la estrategia creativa.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -56,12 +56,6 @@ export default {
         titulo: 'Cuerpo de texto',
         desarrolloContenidos: true,
         subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Técnicas para el desarrollo de cuerpos de texto',
-            hash: 't_5_1',
-          },
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
@@ -128,11 +122,7 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -345,34 +335,5 @@ export default {
         'Texto principal que encabeza una pieza publicitaria y que normalmente transmite una parte clave del mensaje. Texto que encabeza una información de prensa.',
     },
   ],
-  complementario: [
-    {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-  ],
+  complementario: [],
 }
