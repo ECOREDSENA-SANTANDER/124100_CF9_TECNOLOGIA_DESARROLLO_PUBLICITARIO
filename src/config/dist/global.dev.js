@@ -163,13 +163,12 @@ var _default = {
       cargo: 'Diseño web ',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
-    }, //- {
-    //- nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-    //- cargo: 'Diseño web y Producción Audiovisual',
-    //- centro: 'Centro Industrial del Diseño y la Manufactura',
-    //- regional: 'Regional Santander',
-    //- },
-    {
+    }, {
+      nombre: ['Zuleidy Maria Ruiz Torres', 'Wilson Andrés Arenales Caceres', 'Gilberto Junior Rodriguez Rodriguez', 'Jose Tang', 'Adriana Ariza', 'Lina Perez'],
+      cargo: 'Diseño web y Producción Audiovisual',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander'
+    }, {
       nombre: 'Jorge Leonardo Camacho Pardo',
       cargo: 'Desarrollo Front-End',
       centro: 'Centro Industrial del Diseño y la Manufactura',
