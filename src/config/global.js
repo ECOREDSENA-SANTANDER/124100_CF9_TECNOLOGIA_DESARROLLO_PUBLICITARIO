@@ -197,12 +197,12 @@ export default {
 
       {
         nombre: [
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Andrés Arenales Caceres',
+          'Adriana Ariza',
           'Gilberto Junior Rodriguez Rodriguez',
           'Jose Tang',
-          'Adriana Ariza',
           'Lina Perez',
+          'Wilson Andrés Arenales Caceres',
+          'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Diseño web y Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
