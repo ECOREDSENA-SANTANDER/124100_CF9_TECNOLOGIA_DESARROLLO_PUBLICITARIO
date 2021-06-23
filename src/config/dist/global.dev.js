@@ -91,7 +91,7 @@ var _default = {
         icono: 'far fa-file-alt',
         numero: '9.1',
         titulo: 'Principales figuras retóricas utilizadas en la publicidad',
-        hash: 't_3_1'
+        hash: 't_9_1'
       }]
     }],
     subMenu: [{
@@ -164,7 +164,7 @@ var _default = {
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'
     }, {
-      nombre: ['Zuleidy Maria Ruiz Torres', 'Wilson Andrés Arenales Caceres', 'Gilberto Junior Rodriguez Rodriguez', 'Jose Tang', 'Adriana Ariza', 'Lina Perez'],
+      nombre: ['Adriana Ariza', 'Gilberto Junior Rodriguez Rodriguez', 'Jose Tang', 'Lina Perez', 'Wilson Andrés Arenales Caceres', 'Zuleidy Maria Ruiz Torres'],
       cargo: 'Diseño web y Producción Audiovisual',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander'

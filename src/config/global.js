@@ -103,7 +103,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '9.1',
             titulo: 'Principales figuras retóricas utilizadas en la publicidad',
-            hash: 't_3_1',
+            hash: 't_9_1',
           },
         ],
       },
