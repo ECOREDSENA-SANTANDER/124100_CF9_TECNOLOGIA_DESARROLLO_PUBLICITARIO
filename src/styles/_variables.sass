@@ -3,6 +3,7 @@
 // -----------------------------------------------------
   
 // Colores genericos -----------------------------------
+
 $black: #000
 $darkest-gray: lighten($black, 10%)
 $darker-gray: lighten($black, 20%)
@@ -36,6 +37,7 @@ $brown: #795548
 $blue-grey: #607D8B
 
 // Colores Plantilla -----------------------------------
+
 $color-sistema-texto: #12263F
 
 $color-sistema-a: #111e61
@@ -51,6 +53,7 @@ $color-institucional: #ff8f00
 
 
 // Colores Curso ---------------------------------------
+
 $color-primario: #7d6eb2
 $color-secundario: #12263F
 $color-acento-contenido: #26aab7
@@ -70,11 +73,11 @@ $color-link-hover: darken($color-primario, 25%)
 
 // Color Botones ---------------------------------------
 $color-btn-fondo: $color-acento-botones
-$color-btn-texto: #12263F
+$color-btn-texto: $color-secundario
 
 // Colores banner --------------------------------------
 $color-banner-fondo: $color-primario
-$color-banner-text: #12263F
+$color-banner-text: $color-secundario
 
 // Colores anexos
 $color-fondo-anexo: $color-sistema-g
@@ -93,6 +96,7 @@ $color-danger: desaturate($red, 15%)
 // -----------------------------------------------------
 // TIPOGRAFIAS -----------------------------------------
 // -----------------------------------------------------
+
 $base-thin-font-weight: 100
 $base-medium-font-weight: 400
 $base-bold-font-weight: 700
@@ -117,16 +121,16 @@ $h5-font-size: 1em
 $h6-font-size: 0.875em
 
 $paragraph-font-family: $base-font-family
-$paragraph-font-size: $base-font-size
+$paragraph-font-size: 1em
 $paragraph-font-weight: $base-font-weight
 $paragraph-line-height: $base-line-height
 
 // Tipografias Links -----------------------------------
 $link-font-family: $base-font-family
-$link-font-size: $base-font-size
+$link-font-size: 1em
 $link-font-weight: $base-font-weight
 
-$label-font-size: $base-font-size
+$label-font-size: 1em
 $label-font-family: $base-font-family
 $label-font-weight: $heading-font-weight
 
@@ -134,6 +138,7 @@ $label-font-weight: $heading-font-weight
 // -----------------------------------------------------
 // OTROS TAMAÑOS ---------------------------------------
 // -----------------------------------------------------
+
 $base-border-radius: 5px
 $base-spacing: $base-line-height * 1em
 $small-spacing: $base-spacing / 2
@@ -176,16 +181,17 @@ $bp-max-xs: 576px
 // -----------------------------------------------------
   
 // Imágen banner principal -----------------------------
-$banner-principal-img-y: '' // 'arriba','abajo',''
-$banner-principal-img-x: '' // 'derecha',''
+$banner-principal-img-y: 'centro' // 'arriba','abajo',''
+$banner-principal-img-x: 'derecha' // 'derecha',''
 
 // .tarjeta-avatar -----------------------------------
-$tarjeta-avatar-b-ancho-img: 20%
+$tarjeta-avatar-b-ancho-img: 60px
 $tarjeta-avatar-ancho-img: 150px
 
 
 // -----------------------------------------------------
 // VARIABLES DE COMPATIBILIDAD -------------------------
 // -----------------------------------------------------
+
 $color-btn-b-fondo: $color-acento-contenido
 $color-btn-b-texto: $white
