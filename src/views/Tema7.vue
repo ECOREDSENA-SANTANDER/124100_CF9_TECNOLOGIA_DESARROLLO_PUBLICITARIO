@@ -23,12 +23,13 @@
       .col-auto.align-self-center.m-5
         figure.imgc
           img(src='@/assets/tema7/imgt7-1.svg', alt='Texto que describa la imagen')
+    
 
-    .crd_03.p-0.my-4
+    .crd_02.p-0.my-4
       .crd_02__icon.m-3
         img(src='@/assets/tema7/imgt7-2.svg' alt='AvatarTop' ).class 
       .crd_02__txt.m-4
-        .h4 Debe tener un máximo de 5 palabras   
+        .h4 Debe tener un máximo de 5 palabras     
         p Este punto es fundamental, primero para que no sea más relevante que el nombre de la marca, segundo para que sea recordativo y tercero para que cumpla su función principal que es complementar la marca, tanto a nivel visual como auditivo y gráfico.
     
 

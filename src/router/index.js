@@ -16,7 +16,7 @@ const router = new VueRouter({
       path: '/introduccion',
       name: 'introduccion',
       component: () =>
-        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
+        import(/* webpackChunkName: "tema1" */ '../views/Introduccion.vue'),
     },
     {
       path: '/curso',
@@ -48,37 +48,37 @@ const router = new VueRouter({
           path: 'tema4',
           name: 'tema4',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema4.vue'),
+            import(/* webpackChunkName: "tema4" */ '../views/Tema4.vue'),
         },
         {
           path: 'tema5',
           name: 'tema5',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema5.vue'),
+            import(/* webpackChunkName: "tema5" */ '../views/Tema5.vue'),
         },
         {
           path: 'tema6',
           name: 'tema6',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema6.vue'),
+            import(/* webpackChunkName: "tema5" */ '../views/Tema6.vue'),
         },
         {
           path: 'tema7',
           name: 'tema7',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema7.vue'),
+            import(/* webpackChunkName: "tema5" */ '../views/Tema7.vue'),
         },
         {
           path: 'tema8',
           name: 'tema8',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema8.vue'),
+            import(/* webpackChunkName: "tema5" */ '../views/Tema8.vue'),
         },
         {
           path: 'tema9',
           name: 'tema9',
           component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema9.vue'),
+            import(/* webpackChunkName: "tema5" */ '../views/Tema9.vue'),
         },
       ],
     },
