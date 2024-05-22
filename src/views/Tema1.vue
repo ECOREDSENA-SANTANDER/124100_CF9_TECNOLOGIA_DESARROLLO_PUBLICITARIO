@@ -12,7 +12,7 @@
         .col-12.col-lg-auto.mb-4.img-200.row.justify-content-around.align-items-center
           
             figure
-            img(src='@/assets/tema1/imgt1-1.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema1/imgt1-1.svg', alt='Texto que describa la imagen')
             
         .col-lg.justify-content-md-center
           .bloque-texto-a__texto.p-4
@@ -26,31 +26,31 @@
       .col-lg-8
         .crd_01.p-0
           .crd_01__icon.m-3
-            img(src='@/assets/tema1/imgt1-2.svg' alt='AvatarTop' ).class 
+            img(src='@/assets/curso/temas/tema1/imgt1-2.svg' alt='AvatarTop' ).class 
           .crd_01__txt
             p #[strong Tener un argumento de venta claro:] este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
         .hr1
 
         .crd_01.p-0
           .crd_01__icon.m-3
-            img(src='@/assets/tema1/imgt1-3.svg' alt='AvatarTop' ).class 
+            img(src='@/assets/curso/temas/tema1/imgt1-3.svg' alt='AvatarTop' ).class 
           .crd_01__txt
             p #[strong Escribir con claridad:] la mayoría de mercados objetivo ignoran los anuncios con lenguaje complejo o en los que tengan que deducir el mensaje, entre más claro y contundente mejor.
         .hr1
         .crd_01.p-0
           .crd_01__icon.m-3
-            img(src='@/assets/tema1/imgt1-4.svg' alt='AvatarTop' ).class 
+            img(src='@/assets/curso/temas/tema1/imgt1-4.svg' alt='AvatarTop' ).class 
           .crd_01__txt
             p #[strong Estimular la imaginación del lector:] llevar el mensaje paso a paso, contar una historia; de esta forma, el espectador se conecta con la pieza e imagina al tiempo que la lee.
         .hr1
         .crd_01.p-0
           .crd_01__icon.m-3
-            img(src='@/assets/tema1/imgt1-5.svg' alt='AvatarTop' ).class 
+            img(src='@/assets/curso/temas/tema1/imgt1-5.svg' alt='AvatarTop' ).class 
           .crd_01__txt
             p #[strong Menos es más:] no excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
       
       .col-3.p-4.mb-lg-0.d-none.d-lg-flex
-         img(src='@/assets/tema1/imgt1-6.svg' alt='AvatarTop' ).class 
+         img(src='@/assets/curso/temas/tema1/imgt1-6.svg' alt='AvatarTop' ).class 
 
 
    
@@ -59,12 +59,8 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
   data: () => ({
     // variables de vue
   }),

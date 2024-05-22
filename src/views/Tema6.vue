@@ -15,7 +15,7 @@
         .col-12.col-lg-auto.justify-content-md-center.mb-4
           .mb-0.colc
             figure
-            img(src='@/assets/tema6/imgt6-1.svg', alt='Tipos de titulares')
+            img(src='@/assets/curso/temas/tema6/imgt6-1.svg', alt='Tipos de titulares')
             
         .col-lg.justify-content-md-center
           .bloque-texto-a__texto.p-4
@@ -56,7 +56,7 @@
       .col-md-6
         .mb-0.colc
             figure
-            img(src='@/assets/tema6/imgt6-2.svg', alt='Tipos de titulares')
+            img(src='@/assets/curso/temas/tema6/imgt6-2.svg', alt='Tipos de titulares')
 
 
 

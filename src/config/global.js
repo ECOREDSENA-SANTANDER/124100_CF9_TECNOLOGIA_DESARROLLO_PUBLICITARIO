@@ -3,8 +3,18 @@ export default {
     componenteFormativo: 'Redacción de textos publicitarios',
     descripcionCurso:
       'Los textos publicitarios han sido, son y seguirán siendo un elemento fundamental en la publicidad, puesto que no se puede hacer un anuncio audiovisual sin que antes haya sido escrito. De la misma forma, los eslóganes y titulares de los anuncios gráficos representan una parte primordial del mensaje y requieren conocimiento, creatividad y análisis para lograr resultados atractivos y persuasivos. El rol del redactor junto con el diseñador gráfico son la base para la construcción del mensaje publicitario, el concepto y en muchas ocasiones la estrategia creativa.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-bg.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -110,15 +120,36 @@ export default {
     ],
     subMenu: [
       {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-
+      {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -132,46 +163,18 @@ export default {
       },
     ],
   },
-  referencias: [
+  complementario: [
     {
-      referencia: 'Arens, W. (2002). Publicidad. Mc Graw Hill.',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: 'https://www.google.com/',
     },
     {
-      referencia:
-        'Coll, P. y Micó, J. L. (2018). Marketing y comunicación en la nueva economía. Editorial UOC.',
-    },
-    {
-      referencia:
-        'Davara, A. M. (1992). Estrategias de comunicación en marketing. Edit. Dossat S.A.',
-    },
-    {
-      referencia:
-        'Estrella, A. M. y Segovia, C. (2016). Comunicación integrada de marketing. ESIC Editorial.',
-    },
-    {
-      referencia:
-        'Moline, M. (2002). La fuerza de la publicidad. Mc Graw Hill. ',
-    },
-    {
-      referencia:
-        'Polanco, J. A. (2005). Guía de bolsillo para copywriters. Poliantea.',
-    },
-    {
-      referencia: 'Reimers Design. (s.f.). Pequeño diccionario del diseñador.',
-      link: 'https://cutt.ly/VyDzeWh',
-    },
-    {
-      referencia: 'Retoricas.com (2009). Las figuras retóricas',
-      link: 'https://www.retoricas.com/ ',
-    },
-    {
-      referencia: 'San Martín, M. (s.f.). Figuras literarias. ',
-      link:
-        'https://sites.google.com/site/ayenhuelugardivertido/figuras-literarias',
-    },
-    {
-      referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC. ',
-      link: 'https://www.retoricas.com/ ',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      descarga: '/downloads/prueba.pdf',
     },
   ],
   glosario: [
@@ -255,154 +258,130 @@ export default {
         'Texto principal que encabeza una pieza publicitaria y que normalmente transmite una parte clave del mensaje. Texto que encabeza una información de prensa.',
     },
   ],
-  /*complementario: [
+  referencias: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      referencia: 'Arens, W. (2002). Publicidad. Mc Graw Hill.',
     },
     {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      referencia:
+        'Coll, P. y Micó, J. L. (2018). Marketing y comunicación en la nueva economía. Editorial UOC.',
     },
     {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+      referencia:
+        'Davara, A. M. (1992). Estrategias de comunicación en marketing. Edit. Dossat S.A.',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      referencia:
+        'Estrella, A. M. y Segovia, C. (2016). Comunicación integrada de marketing. ESIC Editorial.',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      referencia:
+        'Moline, M. (2002). La fuerza de la publicidad. Mc Graw Hill. ',
     },
-  ],*/
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor-Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Evaluadora instruccional',
-        centro:
-          'Centro para la Industria y la Comunicación Gráfica -  Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Correctora de estilo',
-        centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
-      },
-      {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
-        centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Jesus Antonio Vecino Valero',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Jorge Leonardo Camacho Pardo',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Adriana Ariza',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'José Jaime Luis Tang Pinzón',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Lina Marcela Perez Manchego',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Caceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Veimar Celis Melendez',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-    ],
+    {
+      referencia:
+        'Polanco, J. A. (2005). Guía de bolsillo para copywriters. Poliantea.',
+    },
+    {
+      referencia: 'Reimers Design. (s.f.). Pequeño diccionario del diseñador.',
+      link: 'https://cutt.ly/VyDzeWh',
+    },
+    {
+      referencia: 'Retoricas.com (2009). Las figuras retóricas',
+      link: 'https://www.retoricas.com/ ',
+    },
+    {
+      referencia: 'San Martín, M. (s.f.). Figuras literarias. ',
+      link:
+        'https://sites.google.com/site/ayenhuelugardivertido/figuras-literarias',
+    },
+    {
+      referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC. ',
+      link: 'https://www.retoricas.com/ ',
+    },
+  ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Nombre responsable',
+          cargo: 'Nombre del rol',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Nombre responsable',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Nombre responsable',
+          cargo: 'Desarrollador Fullstack',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Nombre',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Nombre',
+          cargo: 'Actividad Didáctica',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
   // creditosInicio: [
   //   {

@@ -13,7 +13,7 @@
     figure.my-5
       
       figure
-        img(src='@/assets/tema4/imgt4-1.svg', alt='Titulares de segmentación')
+        img(src='@/assets/curso/temas/tema4/imgt4-1.svg', alt='Titulares de segmentación')
         figcaption Fuente: marca registrada Burberry (s.f.)
 
 </template>

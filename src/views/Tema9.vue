@@ -12,7 +12,7 @@
         .col-12.col-lg-auto.justify-content-md-center.mb-4
           .mb-0.colc
             figure
-            img(src='@/assets/tema9/imgt9-1.svg', alt='Uso de las figuras retóricas en el mensaje publicitario')
+            img(src='@/assets/curso/temas/tema9/imgt9-1.svg', alt='Uso de las figuras retóricas en el mensaje publicitario')
             
         .col-lg.justify-content-md-center
           .bloque-texto-a__texto.p-4
@@ -29,7 +29,7 @@
             
       .col-12.col-lg-auto.align-self-center.m-5
         figure.imgc
-          img(src='@/assets/tema9/imgt9-2.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema9/imgt9-2.svg', alt='Texto que describa la imagen')
     
     
     #t_9_1.titulo-segundo.mt-4
@@ -37,7 +37,7 @@
     .row.bl-gr.p-5
       .col-12.col-lg-auto.align-self-center.mb-4
         figure.img-200
-          img(src='@/assets/tema9/imgt9-3.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema9/imgt9-3.svg', alt='Texto que describa la imagen')
 
       .col-lg.align-self-center
      

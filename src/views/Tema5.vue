@@ -10,7 +10,7 @@
       .col-12.col-lg-auto.justify-content-md-center.m-5.img-200.mb-4
         .mb-0.colc
           figure
-            img(src='@/assets/tema5/imgt5-1.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema5/imgt5-1.svg', alt='Texto que describa la imagen')
 
       .col-lg.align-self-center
 

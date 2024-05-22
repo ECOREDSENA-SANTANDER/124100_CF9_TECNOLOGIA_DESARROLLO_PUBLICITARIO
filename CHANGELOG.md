@@ -2,6 +2,154 @@
 
 Estos son los cambios hechos en la ECORED-BASE-2021
 
+## 5.1.0 - 01-12-2021
+
+### Agregado
+
+- Sintesis
+
+### Arreglado
+
+- Componente SlyderF en algunos casos los botones no funcionaban como se esperaba
+
+#
+
+## 5.0.1 - 09-11-2021
+
+### Arreglado
+
+- Componente SlyderF aveces no llegaba al último elemento
+- Componente Zoom hace zoom cuando se hacía scroll por la pagina, ahora solo hay que hacer click a la imágen para que se pueda hacer zoom
+- Vista Material complementario enlaces de descargas no funcionaban cuando era uno solo
+
+#
+
+## 5.0.0 - 29-10-2021
+
+### Agregado
+
+- Componente tarjeta-avatar-slide
+- Componente Tarjeta-slide
+- Componente lineaTiempoE
+- Componente SlyderF
+- Componente Zomm
+
+### Arreglado
+
+- Agregar numero a la imagen infografiaca e infografiaca-B (numero="1")
+- los botones del slyderA y slyderA quedan abajo (tipo="b")
+- titulo-principal y titulo-segundo de colores
+- acordiones agregar clase para estado activo (acordion__activo)
+- espacio para el icono del link de las referencias bibliograficas
+- deshabilitar descargable en local
+- SlyderB, SlyderC, SlyderD quitar titulo cuando no se ponga la llave
+- ponerle min-width a los creditos para moviles
+- material complementario recibe mas de un link o descarga
+- referencias bibliograficas y glosario se ordena incluso con tags html
+
+#
+
+## 4.2.0 - 21-09-2021
+
+### Agregado
+
+- Componente ImagenInfograficaB
+- Componente tarjeta-flip
+
+### Arreglado
+
+- Los titulos y todos los props que van dentro de las vistas soportan html
+  - AcordionA
+  - LineaTiempoA
+  - LineaTiempoB
+  - LineaTiempoC
+  - LineaTiempoD
+  - PasosB
+  - SlyderB
+  - SlyderC
+  - SlyderD
+  - TabsA
+  - TabsB
+  - TabsC
+
+#
+
+## 4.1.1 - 26-08-2021
+
+### Agregado
+
+- Glosario ahora recibe HTML a través de la llave terminoHtml (debe tener ambas llaves termino y terminoHtml para que funcione)
+
+### Arreglado
+
+- Doble slash (//) en enlaces dentro de la plantilla
+
+#
+
+## 4.1.0 - 26-07-2021
+
+### Cambios
+
+- /package.json
+- /src/components/Muestras.vue
+
+### Agregado
+
+- Componente SlyderE
+- Componente cajon-b
+- En el componente 'linea-tiempo-c' la opcion de hacer los titulos mas pequenos
+
+### Arreglado
+
+- En el componente 'linea-tiempo-c' el problema generado por la cantidad de texto en el titulo
+- En el componente 'bloque-texto-e' el nombre de la clase 'bloque-texto-e__text' cambio a 'bloque-texto-e__texto' para mejor consistencia
+- En el componente 'tarjeta-avatar-b' ahora la imagen va a estar dentro de '.tarjeta-avatar-b__img" para arreglar el responsive del componente
+- Los textos dentro de estos componentes ahora se pueden utilizar como html
+  - menu principal
+  - banner interno
+  - banner principal
+  - header
+  - material complementario
+  - inicio
+  - referencias bibliograficas
+- En el componente 'pasos' el problema con los circulos en responsive
+- En los componentes de texto destacado, los problemas de alineacion de las comillas
+
+### Potenciales problemas con versiones anteriores
+
+- en el componente 'tarjeta-avatar-b', la imagen solo necesita estar dentro de: .tarjeta-avatar-b__img
+
+#
+
+## 4.0.0 - 26-06-2021
+
+### Cambios
+
+- /package.json
+- /src/main.js
+- /src/app.vue
+- /src/components/Muestras.vue
+- /src/assets
+- /src/views/Tema1.vue
+- /src/views/Tema2.vue
+- /src/views/Tema3.vue
+
+### Agregado
+
+- componente bloque-texto-g
+- en pantallas pequeñas el menú se cierra cuando se da click
+- Objeto Vue arreglado para la base
+- Implementacion de AOS
+
+### Arreglado
+
+- Bug en componente ScrollHorizontal
+- arreglo de overflow-x en el contenedor de tema
+- la versión 5.0.2 de bootstrap tiene un problema con la grilla
+- el orden del glosario no toma en cuenta mayúsculas
+
+#
+
 ## 3.3.0 - 14-06-2021
 
 ### Cambios
@@ -19,21 +167,23 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 
 - Ultima version de Bootstrap 5.0.1
 - Separador en forma de componente de Vue 'Separador'
-- Directiva que permite que los componentes dinamicos interactuen con Vue
+- Directiva que permite que los componentes dinámicos interactuen con Vue
 - Titulo '.titulo-sexto'
 - Creditos
-- Creditos en inicio
+- Créditos en inicio
 - Botones de accesibilidad
 
 ### Arreglado
 
-- Jerarquias de titulos de la plantilla
+- Jerarquías de títulos de la plantilla
 - Banner principal si no hay imagen de fondo va a quedar con el color en variables
-- Imagenes dentro de tarjetas con avatar
-- Los titulos ahora son elementos h
-- Unificacion de pie de imagen y pie de tabla
+- Imágenes dentro de tarjetas con avatar
+- Los títulos ahora son elementos h
+- Unificación de pie de imagen y pie de tabla
 - Mejor contraste en el encabezado de la tabla de material complementario
-- Tamano de titulo de .tabla-b
+- Tamaño de titulo de .tabla-b
+
+#
 
 ## 3.2.0 - 02-06-2021
 
@@ -49,7 +199,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 - Nuevas clases para titulos .titulo-tercero, .titulo-cuarto y .titulo-quinto
 - nuevo .espaciador
 - PasosA ahora soporta contenido dinámico
-- Indicadores de interaccion .indicador--click y .indicador--hover
+- Indicadores de interacción .indicador--click y .indicador--hover
 - Indicadores de interacción en todos los componentes interactivos
 - Imagen en .tarjeta-avatar ahora tiene tamaños dinámico a travez de $tarjeta-avatar-ancho-img
 
@@ -62,7 +212,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 - Cambio de espaciado de p, ul y ol
 - Mejora de padding en componente AcordionA
 - Cambio de nombre de clase .tarjeta-Avatar-b por .tarjeta-avatar-b
-- Mejora de alineacion de las comillas en los componentes de texto destacado
+- Mejora de alineación de las comillas en los componentes de texto destacado
 
 #
 
@@ -102,7 +252,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 ## 3.0.0 - 11-05-2021
 
 ### Cambios
-- ## Muchos componentes a partir de esta versión cambian su marcado (html) y sus estilos (css), por esto, se recomienda empezar de nuevo teniendo como guia las nuevas muestras.vue.
+- ## Muchos componentes a partir de esta versión cambian su marcado (html) y sus estilos (css), por esto, se recomienda empezar de nuevo teniendo como guía las nuevas muestras.vue.
 - /package.json => "ecored-base-pkg": "2.0.0"
 - /src/views/Actividad.vue
 - /src/styles/variables.sass
@@ -124,7 +274,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
   .color-acento-contenido
   .color-acento-botones
   ```
-- Clases para textos están en ingles y en español.
+- Clases para textos están en inglés y en español.
   ```
   .text-thin, .texto-thin
   .text-regular, .texto-regular
@@ -154,7 +304,7 @@ Estos son los cambios hechos en la ECORED-BASE-2021
 
 ### Agregado
 
-- Visualización de la version de la base y del paquete de la base en footer.
+- Visualización de la versión de la base y del paquete de la base en footer.
 - Nueva variable $color-banner-fondo.
 
 ### Arreglos

@@ -16,7 +16,7 @@ const router = new VueRouter({
       path: '/introduccion',
       name: 'introduccion',
       component: () =>
-        import(/* webpackChunkName: "tema1" */ '../views/Introduccion.vue'),
+        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
     },
     {
       path: '/curso',
@@ -111,6 +111,12 @@ const router = new VueRouter({
         import(
           /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
         ),
+    },
+    {
+      path: '/sintesis',
+      name: 'sintesis',
+      component: () =>
+        import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
     },
     {
       path: '/creditos',
