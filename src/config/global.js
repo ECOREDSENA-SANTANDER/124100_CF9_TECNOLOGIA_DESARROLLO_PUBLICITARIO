@@ -14,6 +14,10 @@ export default {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
     ],
   },
   menuPrincipal: {
@@ -31,7 +35,7 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+
         numero: '1',
         titulo:
           'Elementos a tener en cuenta antes de la redacción de textos publicitarios',
@@ -40,61 +44,71 @@ export default {
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+
         numero: '2',
         titulo: 'Encabezados',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+
         numero: '3',
         titulo: 'Tipos de titulares',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+
         numero: '4',
         titulo: 'Subtítulos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
+
         numero: '5',
         titulo: 'Cuerpo de texto',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Técnicas para el desarrollo de cuerpos de texto',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Herramientas para la redacción del body copy',
+            hash: 't_5_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
+
         numero: '6',
         titulo: 'Relación entre texto e imagen',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
-        icono: 'far fa-file-alt',
+
         numero: '7',
         titulo: 'El eslogan',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema8',
-        icono: 'far fa-file-alt',
+
         numero: '8',
         titulo: 'Redacción para medios audiovisuales',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '8.1',
             titulo: 'Formatos de comunicación audiovisual',
             hash: 't_8_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '8.2',
             titulo:
               'Datos a tener en cuenta para el desarrollo de textos en formatos audiovisuales',
@@ -104,13 +118,12 @@ export default {
       },
       {
         nombreRuta: 'tema9',
-        icono: 'far fa-file-alt',
+
         numero: '9',
         titulo: 'Uso de las figuras retóricas en el mensaje publicitario',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '9.1',
             titulo: 'Principales figuras retóricas utilizadas en la publicidad',
             hash: 't_9_1',
