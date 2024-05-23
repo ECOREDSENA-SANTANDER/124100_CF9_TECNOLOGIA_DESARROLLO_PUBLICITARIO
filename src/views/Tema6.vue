@@ -10,53 +10,49 @@
 
 
 
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
-      .row.m-0.align-items-center.justify-content-between
-        .col-12.col-lg-auto.justify-content-md-center.mb-4
-          .mb-0.colc
-            figure
-            img(src='@/assets/curso/temas/tema6/imgt6-1.svg', alt='Tipos de titulares')
-            
-        .col-lg.justify-content-md-center
-          .bloque-texto-a__texto.p-4
-            p Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:
-  
-    .row.justify-content-around.align-items-center.m-5
-      .col-md-6.mr-5.row
-        .ul.lista-ul--color
-          li 
-            i.fas.fa-caret-right
-            p Captar la atención del espectador.
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Llevar al espectador a leer el encabezado.
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Reafirmar lo que se está diciendo en el texto publicitario.
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Hacer evidente el concepto del anuncio.             
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Mostrar el producto o servicio en función de su uso.             
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Exaltar las características más importantes del producto.             
-          .sep2
-          li 
-            i.fas.fa-caret-right
-            p Generar una imagen favorable del producto o de la marca.              
-                 
+    .row.justify-content-center
+      .col-sm-12.col-lg-7
+        p.mb-5 Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:p Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:
+        .row
+          .col-sm-12.col-lg-9
+            ol.lista-ol--cuadro.lista-ol--separador
+              li 
+                .lista-ol--cuadro__vineta
+                  span 1
+                | Captar la atención del espectador.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 2
+                | Llevar al espectador a leer el encabezado.
+              
+              li 
+                .lista-ol--cuadro__vineta
+                  span 3
+                | Reafirmar lo que se está diciendo en el texto publicitario.
+              
+              li 
+                .lista-ol--cuadro__vineta
+                  span 4
+                | Hacer evidente el concepto del anuncio.             
+              
+              li 
+                .lista-ol--cuadro__vineta
+                  span 5
+                | Mostrar el producto o servicio en función de su uso.             
+              
+              li 
+                .lista-ol--cuadro__vineta
+                  span 6
+                | Exaltar las características más importantes del producto.             
+              
+              li 
+                .lista-ol--cuadro__vineta
+                  span 7
+                | Generar una imagen favorable del producto o de la marca.              
+
                
-      .col-md-6
-        .mb-0.colc
-            figure
-            img(src='@/assets/curso/temas/tema6/imgt6-2.svg', alt='Tipos de titulares')
+      .col-sm-12.col-lg-5.d-none.d-lg-block
+          img(src='@/assets/curso/temas/tema6/img1.svg')
 
 
 

@@ -7,54 +7,40 @@
         span 1
       h1 Elementos a tener en cuenta antes de la redacción de textos publicitarios
     
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
-      .row.align-items-center.justify-content-between
-        .col-12.col-lg-auto.mb-4.img-200.row.justify-content-around.align-items-center
-          
-            figure
-            img(src='@/assets/curso/temas/tema1/imgt1-1.svg', alt='Texto que describa la imagen')
-            
-        .col-lg.justify-content-md-center
-          .bloque-texto-a__texto.p-4
-            p Los textos publicitarios se crean siguiendo ciertas técnicas y rutas específicas, no hay casos de inspiración o chispazos creativos que generen ideas mágicas para el desarrollo de textos idóneos y para la comercialización de un producto. Por este motivo, es importante tener en cuenta:
+    
+    p.mb-5 Los textos publicitarios se crean siguiendo ciertas técnicas y rutas específicas, no hay casos de inspiración o chispazos creativos que generen ideas mágicas para el desarrollo de textos idóneos y para la comercialización de un producto. Por este motivo, es importante tener en cuenta:
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-3.mb-cus
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img1.svg')
+          .tarjeta.color-secundario-cus.w-100
+            .p-4.text-center
+              h2.text-center.mt-4 Tener un argumento de venta claro:
+              p.mb-0 este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
 
+      .col-sm-12.col-lg-3.mb-cus
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img2.svg')
+          .tarjeta.color-secundario-cus.w-100
+            .p-4.text-center
+              h2.text-center.mt-4 Escribir con claridad: 
+              p.mb-0 la mayoría de mercados objetivo ignoran los anuncios con lenguaje complejo o en los que tengan que deducir el mensaje, entre más claro y contundente mejor.
 
-
-
-
-    .row.justify-content-center
-      .col-lg-8
-        .crd_01.p-0
-          .crd_01__icon.m-3
-            img(src='@/assets/curso/temas/tema1/imgt1-2.svg' alt='AvatarTop' ).class 
-          .crd_01__txt
-            p #[strong Tener un argumento de venta claro:] este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
-        .hr1
-
-        .crd_01.p-0
-          .crd_01__icon.m-3
-            img(src='@/assets/curso/temas/tema1/imgt1-3.svg' alt='AvatarTop' ).class 
-          .crd_01__txt
-            p #[strong Escribir con claridad:] la mayoría de mercados objetivo ignoran los anuncios con lenguaje complejo o en los que tengan que deducir el mensaje, entre más claro y contundente mejor.
-        .hr1
-        .crd_01.p-0
-          .crd_01__icon.m-3
-            img(src='@/assets/curso/temas/tema1/imgt1-4.svg' alt='AvatarTop' ).class 
-          .crd_01__txt
-            p #[strong Estimular la imaginación del lector:] llevar el mensaje paso a paso, contar una historia; de esta forma, el espectador se conecta con la pieza e imagina al tiempo que la lee.
-        .hr1
-        .crd_01.p-0
-          .crd_01__icon.m-3
-            img(src='@/assets/curso/temas/tema1/imgt1-5.svg' alt='AvatarTop' ).class 
-          .crd_01__txt
-            p #[strong Menos es más:] no excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
+      .col-sm-12.col-lg-3.mb-cus
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img3.svg')
+          .tarjeta.color-secundario-cus.w-100
+            .p-4.text-center
+              h2.text-center.mt-4 Estimular la imaginación del lector: 
+              p.mb-0 llevar el mensaje paso a paso, contar una historia; de esta forma, el espectador se conecta con la pieza e imagina al tiempo que la lee.
       
-      .col-3.p-4.mb-lg-0.d-none.d-lg-flex
-         img(src='@/assets/curso/temas/tema1/imgt1-6.svg' alt='AvatarTop' ).class 
-
-
-   
-
+      .col-sm-12.col-lg-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img4.svg')
+          .tarjeta.color-secundario-cus.w-100
+            .p-4.text-center
+              h2.text-center.mt-4  Menos es más: 
+              p.mb-0 no excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
 
 </template>
 
