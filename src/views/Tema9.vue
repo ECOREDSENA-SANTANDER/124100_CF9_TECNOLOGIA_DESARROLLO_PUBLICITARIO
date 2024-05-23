@@ -40,7 +40,7 @@
                 span
                   |   Alegoría
               figure
-                img(src='@/assets/curso/temas/tema9/img2.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img2.png', alt=' la imagen presenta fotografía de Paris, en la cual se resalta al fondo la torre Eiffel y en primer plano edificios varios y  el rio Sena.  A la izquiera el resaltador de color amarillo.')
               figcaption Nota. Tomada de marca registrada Folha travel guides (s.f.)
         .py-3.bg2.px-5
           .row
@@ -61,7 +61,7 @@
                 span
                   | Símil o comparación  
               figure
-                img(src='@/assets/curso/temas/tema9/img3.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img3.png', alt='En la imagen se hace un comparativo entre el  vehículo mitsubishi y un rinoceronte para lo cual se presenta en la parte superior, suspendida,  la carrocería del vehículo y en la parte inferior el rinoceronte con las llantas del vehículo.')
               figcaption Nota. Tomada de marca registrada Mitsubishi Motors (s.f.)              
         .py-3.bg2.px-5
           .row
@@ -78,7 +78,7 @@
                 span
                   | Personificación o prosopopeya  
               figure
-                img.w-75(src='@/assets/curso/temas/tema9/img4.png', alt='Titular directo')
+                img.w-75(src='@/assets/curso/temas/tema9/img4.png', alt='La imagen presenta un rompecabezas en el cual se resalta una pieza   suelta en color amarillo que representa una figura humana.')
               figcaption Nota. Tomada de marca registrada Whisky Cutty Sark (s.f.)
 
         .py-3.bg2.px-5
@@ -95,7 +95,7 @@
                 span
                   |   Hipérbole
               figure
-                img(src='@/assets/curso/temas/tema9/img5.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img5.png', alt=' En la imagen se presenta una compota de la marcha Gerber y  la leyenda:  “Por hacer de una cuchara un avión, gracias mamá ¡felicidades!”  así mismo el texto “Gerber, el alimento que nutre tus sueños “')
               figcaption Nota. Tomada de marca registrada Gerber (s.f.)
 
         .py-3.bg2.px-5
@@ -113,7 +113,7 @@
                 span
                   |   Metáfora
               figure
-                img(src='@/assets/curso/temas/tema9/img6.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img6.png', alt='La imagen presenta sobre un plato  una forma de auto realizada  con un  huevo frito  en el que las llantas son dos yemas y la clara representa la carrocería, tiene el emblema de Volkswagen.')
               figcaption Nota. Tomada de marca registrada Volkswagen (s.f.)
 
         .py-3.bg2.px-5
@@ -136,7 +136,7 @@
                 span
                   |   Antítesis o contraste
               figure
-                img(src='@/assets/curso/temas/tema9/img7.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img7.png', alt='La imagen presenta fotografía de un niño llevando a su padre colgado en  su espalda atado a un morral   y una niña llevando  de la mano a su madre.')
               figcaption Nota. Tomada de marca registrada Stena Line (s.f.)
 
 
@@ -162,7 +162,7 @@
                 span
                   |   Reiteración o anáfora
               figure
-                img(src='@/assets/curso/temas/tema9/img8.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img8.png', alt='En la imagen se presenta sobre un fondo amarillo inicialmente la frase  en letras negras ¡Cha cha cha chaaán! repetida en dos veces y luego la palabra cha, igualmente en letra negra, repetida dieciseis veces  y  entre paréntesis la expresión música clásica, al final  el logo de librerías Gandhi en recuadro morado')
               figcaption Nota. Tomada de marca registrada Librerías Gandhi (s.f.)
 
 
@@ -185,7 +185,7 @@
                 span
                   |   Ironía
               figure
-                img(src='@/assets/curso/temas/tema9/img9.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img9.png', alt='En la imagen se presenta escultura  en pedazosy derribada en el piso y   empaque del pegante scoth super glue.')
               figcaption Nota. Tomada de marca registrada Scotch Super Glue (s.f.)
 
 
@@ -205,7 +205,7 @@
                 span
                   |   Aliteración
               figure
-                img(src='@/assets/curso/temas/tema9/img10.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img10.png', alt='La imagen representa fotografía de ocho personas, tanto hombres como mujeres que dan la apariencia de caminar en el aire')
               figcaption Nota. Tomada de marca registrada Lacoste (s.f.)
 
 
@@ -225,7 +225,7 @@
                 span
                   |   Énfasis 
               figure
-                img(src='@/assets/curso/temas/tema9/img11.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img11.png', alt='La imagen presenta  el IPod, del cual emanan una serie de figuras que pueden significar  las diferentes capacidades que tiene  el producto.')
               figcaption Nota. Tomada de marca registrada iPod (s.f.)
 
 
@@ -245,7 +245,7 @@
                 span
                   |   Oxímoron
               figure
-                img(src='@/assets/curso/temas/tema9/img12.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img12.png', alt='La imagen presenta una vela de hielo,  cuadrada en color azul, cuya llama la está derritiendo.')
               figcaption Nota. Tomada de marca registrada Acuña (s.f.)
 
         .py-3.bg2.px-5
@@ -264,7 +264,7 @@
                 span
                   |   Repetición 
               figure
-                img(src='@/assets/curso/temas/tema9/img13.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img13.png', alt='La imagen presenta el cuello de siete botellas de vino iguales y en la parte superior el mensaje  “Una pasión por excelencia”')
               figcaption Nota. Tomada de marca registrada NOMADE (s.f.)
 
         .py-3.bg2.px-5
@@ -285,7 +285,7 @@
                 span
                   |   Sinestesia
               figure
-                img(src='@/assets/curso/temas/tema9/img14.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img14.png', alt='La figura representa imagen de una cara formada por crispetas y una coca cola con lo que se promociona películas de Cinemark con la leyenda  “Preparate para vivir nuevas sensaciones desde el 4 de septiembre en la sala coca cola cinemark 30 digital  Películas para ver y casi tocar”')
               figcaption Nota. Tomada de marca registrada Coca-Cola (s.f.)
 
 
@@ -309,7 +309,7 @@
                 span
                   |   Elipsis o elipse
               figure
-                img(src='@/assets/curso/temas/tema9/img15.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img15.png', alt='La imagen presenta un par de manos vendadas  simulando la acción de coger una hamburguesa  se resalta el texto:  “Thanks,  Nurse”  acompañado del logo de Mac Donalds.')
               figcaption Nota. Tomada de marca registrada McDonald's (s.f.)
 
 
@@ -333,7 +333,7 @@
                 span
                   |   Epíteto
               figure
-                img(src='@/assets/curso/temas/tema9/img16.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img16.png', alt='La imagen presenta una botella de un jugo de naranja que está siendo partido por un cuchillo, dejando al descubierto  la pulpa de una naranja real.')
               figcaption Nota. Tomada de marca registrada Pulpy (s.f.)
 
 
@@ -353,7 +353,7 @@
                 span
                   |   Onomatopeya
               figure
-                img(src='@/assets/curso/temas/tema9/img17.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img17.png', alt='La imagen representa el sonido que produce el hielo al ser depositado en un vaso.')
               figcaption Nota. Tomada de marca registrada Coca-Cola (s.f.)             
         
 
@@ -375,7 +375,7 @@
                 span
                   |   Paradoja
               figure
-                img(src='@/assets/curso/temas/tema9/img18.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img18.png', alt='La imagen presenta tendida en el piso la mano de un super héroe  (hombre araña) y en la parte inferior los envases de insecticida, en el extremo superior izquierdo la leyenda  “No hay insecto que se resista”')
               figcaption Nota. Tomada de marca registrada Baygon (s.f.)
 
         .py-3.bg2.px-5
@@ -398,7 +398,7 @@
                 span
                   |   Perífrasis 
               figure
-                img(src='@/assets/curso/temas/tema9/img19.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img19.png', alt='La imagen presenta un conjunto de tablas  dispuestas sobre pupitres y partidas a la mitad con el logo de  katate school')
               figcaption Nota. Tomada de marca registrada S.R. Monza karate School (s.f.)
 
         .py-3.bg2.px-5
@@ -418,7 +418,7 @@
                 span
                   |   Eufemismo
               figure
-                img(src='@/assets/curso/temas/tema9/img20.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img20.png', alt='La imagen presenta en un recuadro verde la palabra  Activia en letras blancas  con la letra i representada con una flecha dirigida hacia abajo.  En la parte superior la palabra Danone.')
               figcaption Nota. Tomada de marca registrada Activia (s.f.)
 
 
@@ -439,7 +439,7 @@
                 span
                   |   Sarcasmo
               figure
-                img(src='@/assets/curso/temas/tema9/img21.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img21.png', alt='La imagen representa  múltiples rostros  con diferentes expreciones , dibujados sobre objetos circulares.')
               figcaption Nota. Tomada de marca registrada Greenpeace (s.f.)
 
         .py-3.bg2.px-5
@@ -459,7 +459,7 @@
                 span
                   |   Metonimia
               figure
-                img(src='@/assets/curso/temas/tema9/img22.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img22.png', alt='La imagén representa dos cigarrillos encedidos  que producen un abundante humo y la leyenda   “No more Killing”')
               figcaption Nota. Tomada de artista Michael Miller Yu y el diseñador gráfico Eric Chan (2002)
     
         .py-3.bg2.px-5
@@ -482,7 +482,7 @@
                 span
                   |   Sinécdoque
               figure
-                img(src='@/assets/curso/temas/tema9/img23.png', alt='Titular directo')
+                img(src='@/assets/curso/temas/tema9/img23.png', alt='La imagen presenta la figura de una enorme lata de cerveza Heineken, sobre una playa.')
               figcaption Nota. Tomada de marca registrada Heineken (s.f.)
     
     
@@ -490,7 +490,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
-              .mb-0.fw-bold La redacción publicitaria lo es todo, así es como en las imágenes anteriores se puede observar que la presencia de titulares o cuerpos de texto es limitada y en ocasiones casi nula; sin embargo, para llegar a dichas imágenes, de las que se puede concluir que hay mensajes muy claros y contundentes, se partió de textos que reúnen todas las condiciones anteriormente descritas. 
+              .mb-0.fw-bold La redacción publicitaria lo es todo, así es como en las imágenes anteriores se puede evidenciar que la presencia de titulares o cuerpos de texto es limitada y en ocasiones casi nula; sin embargo, para llegar a dichas imágenes, de las que se puede concluir que hay mensajes muy claros y contundentes, se partió de textos que reúnen todas las condiciones anteriormente descritas. 
 
 
     ModalA(:abrir-modal.sync="modal1")

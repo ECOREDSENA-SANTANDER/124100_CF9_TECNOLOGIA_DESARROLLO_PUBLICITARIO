@@ -12,7 +12,7 @@
 
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
-        p.mb-5 Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:p Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero observan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:
+        p.mb-5 Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero consultan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:p Cuando los espectadores ven anuncios publicitarios hacen un recorrido visual que se da en la mayoría de los casos: primero consultan la imagen, luego leen el encabezado y finalmente, el cuerpo de texto; es por eso que la imagen se diseña teniendo en cuenta varios aspectos importantes:
         .row
           .col-sm-12.col-lg-9
             ol.lista-ol--cuadro.lista-ol--separador

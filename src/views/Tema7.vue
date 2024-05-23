@@ -52,7 +52,7 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Impactante: 
-              p.mb-0 el eslogan debe generar un impacto en el cliente de la marca y en todo aquel que lo lea o escuche, esto tiene relación con el branding y el posicionamiento de marca; hay casos en los que el eslogan tiene un nivel de impacto tal que se convierte en el concepto de la comunicación. Este es el caso de MasterCard: “Para todo lo demás existe…”.
+              p.mb-0 el eslogan debe generar un impacto en el cliente de la marca y en todo aquel que lo lea o escuche, esto tiene relación con el branding y el posicionamiento de marca; hay casos en los que el eslogan tiene un nivel de impacto tal que se convierte en el concepto de la comunicación. Este es el caso de <i>MasterCard</i>: “Para todo lo demás existe…”.
 
 </template>
 

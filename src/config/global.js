@@ -77,7 +77,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Herramientas para la redacción del body copy',
+            titulo: 'Herramientas para la redacción del <i>body copy</i>',
             hash: 't_5_2',
           },
         ],
@@ -139,20 +139,9 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -207,7 +196,7 @@ export default {
         'también llamado esbozo o borrador, es un dibujo hecho a mano alzada, utilizando lápiz, papel y goma de borrar, elaborado de forma esquemática y sin preocuparse de los detalles o terminaciones para representar ideas, lugares, personas u objetos.',
     },
     {
-      termino: 'Call To Action',
+      termino: '<i>Call To Action</i>',
       significado:
         'por sus siglas en inglés se refiere a “llamada a la acción” y es un término que se utiliza en la publicidad y hace referencia a una acción que genera una respuesta inmediata.',
     },
@@ -228,7 +217,7 @@ export default {
     {
       termino: 'Eslogan',
       significado:
-        '(slogan). Término de origen inglés utilizado para recordar una marca o un producto, por medio de una frase de fácil memorización, en los mensajes publicitarios. ',
+        '<i>(slogan)</i>. Término de origen inglés utilizado para recordar una marca o un producto, por medio de una frase de fácil memorización, en los mensajes publicitarios. ',
     },
     {
       termino: 'Guion',
@@ -323,9 +312,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -333,9 +322,43 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Metodológico y Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Manuel Augusto Arias López',
+          cargo: 'Instructor - Experto Temático',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Vilma Lucía Perilla Méndez',
+          cargo: 'Evaluadora Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica ',
+        },
+        {
+          nombre: 'Julieth Paola Vital López',
+          cargo: 'Correctora de Estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de Estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescun',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -343,24 +366,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora Web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora Full-Stack',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -368,24 +381,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
