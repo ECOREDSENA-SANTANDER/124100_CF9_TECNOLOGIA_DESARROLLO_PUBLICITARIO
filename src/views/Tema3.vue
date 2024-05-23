@@ -100,7 +100,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares combinados:
-              p se crean en combinación perfecta con la imagen del anuncio y permiten al consumidor pensar para hacer la relación entre los dos elementos. Muchas veces el texto es complemento de la imagen que muestra un contexto.
+              p se crean en combinación perfecta con la imagen del anuncio y permiten al consumidor pensar para hacer la relación entre los dos elementos. Muchas veces el texto es complemento de la imagen que presenta un contexto.
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 7.
                 span
