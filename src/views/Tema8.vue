@@ -8,22 +8,22 @@
         span 8
       h1 Redacción para medios audiovisuales
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema8/img1.png', alt='Redacción para medios audiovisuales')
       .col-sm-12.col-lg-8
         p.mb-4 Hace unos pocos años la televisión era el medio por excelencia para lograr el posicionamiento efectivo de una marca, pero hoy los medios digitales la han desplazado de tal manera que se le ha relegado a presupuestos muy bajos en las empresas que están llegando a su mercado objetivo a través de espacios digitales en donde está hoy el interés del grueso de los consumidores. Sin embargo, el formato sigue siendo el mismo en muchos casos, nada mejor que el audiovisual para llegar con el mensaje de manera más efectiva y contundente al target de un producto o servicio.
         p.mb-0 El audiovisual tiene la capacidad de crear un estado de ánimo o de demostrar cómo se usa un producto o servicio. Cuando se redacta para un audiovisual se deben tener presente algunos aspectos importantes del mensaje: primero, el carácter de audiovisual implica que además de palabras hay otros elementos importantes que logran transmitir sensaciones y emociones que apoyan al texto; por ejemplo, los efectos visuales, especiales y de sonido. En segundo lugar, los tiempos, si bien las redes sociales permiten extenderse en cuanto a la duración de los videos, son los mismos espectadores los que le ponen límite a ello; un audiovisual promocional de más de un minuto impide la concentración de quien lo ve y obliga a ser cortado en cualquier momento, el reto está en crear un mensaje claro, contundente y enganchador en pocos segundos. 
        
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .cajon2.cajon.color-acento-contenido.p-4.mb-4
           .col-lg.align-self-center
             p.mb-0 Es importante recordar que, en los nuevos medios, el espectador tiene el control, pues él ya no está sometido a un horario de transmisión y a los espacios comerciales que se acuerdan por hora. En las redes sociales y plataformas digitales es el espectador quien decide qué ve, a qué hora lo hace y en qué dispositivo; adicionalmente, decide si recibe o no la publicidad.
     Separador  
-    #t_8_1.titulo-segundo.color-secundario
+    #t_8_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 8.1 Formatos de comunicación audiovisual
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-left")
       .row(titulo="Demostración")
         .col-sm-12.col-lg-12
             p.mb-0.pl-cus Es un recurso que se explotó en programas de televisión en los que se dedicaban horas enteras a mostrar el uso de un producto. Es un formato muy obvio si se tiene en cuenta que a través de un video es posible mostrar de forma clara, real y convincente el uso de un producto en función de sus beneficios y ventajas competitivas. El texto aquí es principal, pues define el guion y los elementos que se van a exaltar, este formato es muy dado para productos de aseo, funciones específicas de un automóvil o el manejo de una herramienta o utensilio nuevo.
@@ -55,28 +55,28 @@
 
 
     Separador  
-    #t_8_2.titulo-segundo.color-secundario
+    #t_8_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 8.2 Datos a tener en cuenta para el desarrollo de textos en formatos audiovisuales
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img2.svg')
         p.mb-0.br-cus #[b Aprovechar la imagen al máximo:] cuando se crea un anuncio audiovisual se debe tener en cuenta que la imagen sea compatible con el texto y viceversa y son un conjunto en el desarrollo del mensaje, esa es la gran fortaleza de este formato. 
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img3.svg')
         p.mb-0 #[b Apoyar la imagen:] el texto no debe ser el narrador de lo que se está viendo en video, debe ser un apoyo que refuerce la imagen y fortalezca el mensaje, esto permite el máximo aprovechamiento del formato.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img4.svg')
         p.mb-0.br-cus #[b Coordinar audio y video:] ambos deben contar la misma historia. La selección de la música de fondo, los efectos de sonido, los diálogos y las voces en off deben estar completamente relacionados con el video.
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img5.svg')
         p.mb-0 #[b Ser sencillo en la redacción:] los textos largos y muy cargados de información tienden a generar rechazo en el espectador, por ello hay que utilizar la menor cantidad de palabras para decir lo que los objetivos han planteado
-    .row.justify-content-center.my-0
+    .row.justify-content-center.my-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.my-0.d-none.d-lg-block
         .bt-cus.my-0.d-lg-block
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10.mb-cus
         img.w-cus-2.mb-4(src='@/assets/curso/temas/tema8/img6.svg')
         p.mb-0 #[b Vender al mismo tiempo que divierte:] es importante que un audiovisual divierta para generar enganche y recordación. Este es un elemento fundamental en el proceso de realización de una pieza con formato audiovisual; sin embargo, no se puede olvidar que se está realizando un proceso de venta y que es parte importante del proceso.

@@ -6,8 +6,8 @@
       .titulo-principal__numero
         span 9
       h1 Uso de las figuras retóricas en el mensaje publicitario
-    p.mb-5 Ya se ha estudiado en anteriores componentes formativos diferentes métodos para el diseño del mensaje y el concepto publicitario: los insights de producto y consumidor, las tendencias, las características del producto y los estereotipos, los cuales son los recursos que hasta ahora se conocen. Sabiendo que un mensaje efectivo y con dirección hacia un grupo de consumidores previamente seleccionado, es posible construirlo a partir de uno o varios de estos recursos; de esta manera, un estereotipo puede hacer énfasis en su discurso a un insight de consumidor o las características de un producto pueden responder a nuevas tendencias del mercado.
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="zoom-in-left") Ya se ha estudiado en anteriores componentes formativos diferentes métodos para el diseño del mensaje y el concepto publicitario: los insights de producto y consumidor, las tendencias, las características del producto y los estereotipos, los cuales son los recursos que hasta ahora se conocen. Sabiendo que un mensaje efectivo y con dirección hacia un grupo de consumidores previamente seleccionado, es posible construirlo a partir de uno o varios de estos recursos; de esta manera, un estereotipo puede hacer énfasis en su discurso a un insight de consumidor o las características de un producto pueden responder a nuevas tendencias del mercado.
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema9/img1.png')
       .col-sm-12.col-lg-8
@@ -15,10 +15,10 @@
         p.mb-0 Estas técnicas de escritura también direccionan el estilo del autor y hacen que sus obras tengan ese toque característico. #[b Sin embargo, la función principal de las figuras literarias es permitir a quien los ve el uso de la imaginación con fines didácticos, ] maximizando la comprensión de lo que está leyendo al realizar comparativos con otras situaciones o poner en diferentes contextos un aspecto en particular. La publicidad ha sabido explotar este tipo de recursos para el desarrollo de mensajes memorables y que, por encima del aspecto comercial, exaltan los beneficios de un producto o servicio.
     
     Separador  
-    #t_9_1.titulo-segundo.color-secundario
+    #t_9_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 9.1 Principales figuras retóricas utilizadas en la publicidad
-    p.mb-5 A continuación, se indican las figuras retóricas más utilizadas en la publicidad, relacionando algunos ejemplos escritos y visuales que se destacan. Lo cual, es basado en el sitio web Retoricas.com (2009) y la recopilación que hace la profesora de lenguaje y comunicación Mónica San Martín:
-    .bg1.px-5.px-sm-0.pt-4.pb-4.mb-5
+    p.mb-5(data-aos="zoom-in-left") A continuación, se indican las figuras retóricas más utilizadas en la publicidad, relacionando algunos ejemplos escritos y visuales que se destacan. Lo cual, es basado en el sitio web Retoricas.com (2009) y la recopilación que hace la profesora de lenguaje y comunicación Mónica San Martín:
+    .bg1.px-5.px-sm-0.pt-4.pb-4.mb-5(data-aos="zoom-in-left")
       SlyderA(tipo="b")
         .py-3.bg2.px-5
           .row.justify-content-center.align-content-start.mb-5
@@ -486,8 +486,8 @@
               figcaption Nota. Tomada de marca registrada Heineken (s.f.)
     
     
-    p.mb-5 La redacción de textos publicitarios es una tarea que requiere de mucha práctica y el dominio de varios temas, por ello, un redactor publicitario debe conocer a fondo el producto o servicio para el cual está desarrollando los textos, tener claro el proceso y concepto de la estructura gramatical, así como un amplio léxico y saber combinar las palabras con el fin de generar mensajes efectivos, atractivos y claros. 
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="zoom-in-left") La redacción de textos publicitarios es una tarea que requiere de mucha práctica y el dominio de varios temas, por ello, un redactor publicitario debe conocer a fondo el producto o servicio para el cual está desarrollando los textos, tener claro el proceso y concepto de la estructura gramatical, así como un amplio léxico y saber combinar las palabras con el fin de generar mensajes efectivos, atractivos y claros. 
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
               .mb-0.fw-bold La redacción publicitaria lo es todo, así es como en las imágenes anteriores se puede observar que la presencia de titulares o cuerpos de texto es limitada y en ocasiones casi nula; sin embargo, para llegar a dichas imágenes, de las que se puede concluir que hay mensajes muy claros y contundentes, se partió de textos que reúnen todas las condiciones anteriormente descritas. 

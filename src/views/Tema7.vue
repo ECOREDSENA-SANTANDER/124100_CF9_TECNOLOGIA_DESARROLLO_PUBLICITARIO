@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 7
       h1 El eslogan
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         p.mb-3 El eslogan de la marca es una frase con mucha contundencia y su función principal es la de generar apoyo y refuerzo a la marca a manera de complemento. Es muy eficaz en medios audiovisuales donde es mencionado con énfasis haciendo un acompañamiento perfecto al nombre de la marca, de ahí la importancia que sea simple y contundente.
         .cajon.color-secundario.p-4.mb-4
@@ -15,7 +15,7 @@
         .mb-0 La creación de un eslogan eficaz implica tener en cuenta algunos elementos clave que se verán a continuación:
       .col-sm-12.col-lg-4.d-none.d-lg-block
        img(src='@/assets/curso/temas/tema7/img1.png')
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema7/img2.svg')
@@ -38,7 +38,7 @@
               h2.text-center.mt-4 Muy creativo:  
               p.mb-0 el eslogan no debe ser solo creativo, debe ser muy creativo, por ello, se necesita muchas veces tener en consideración 50 posibilidades para seleccionar solo uno, debido a que para generar una buena idea hay que tener miles de ellas.
    
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema7/img5.svg')

@@ -7,7 +7,7 @@
         span 5
       h1 Cuerpo de texto
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
         p.mb-0 También conocido como body copy, es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
         .titulo-sexto.color-secundario.mt-5
@@ -19,9 +19,9 @@
           img(src='@/assets/curso/temas/tema5/img1.png', alt='Titulares de segmentación')
           figcaption Nota. Tomada de marca registrada L'Oréal (s.f.)
     Separador  
-    #t_5_1.titulo-segundo.color-secundario
+    #t_5_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 5.1 Técnicas para el desarrollo de cuerpos de texto 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
         .bg3.px-5.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-5.d-none.d-lg-block
@@ -69,24 +69,24 @@
             img.w-50.m-auto(src='@/assets/curso/temas/tema5/img7.png', alt='Titulares de segmentación')
             figcaption Nota. Tomada de marca registrada Kellogg's (s.f.)
 
-    .d-flex
+    .d-flex(data-aos="zoom-in-left")
       .bg7 Ejemplo 
       .bg8 textos publicitarios
 
-    .titulo-sexto.color-secundario.mt-5
+    .titulo-sexto.color-secundario.mt-5(data-aos="zoom-in-left")
         h5 Figura 14.
         span
           |  Ejemplo textos publicitarios
-    .bg9.px-5.py-4
+    .bg9.px-5.py-4(data-aos="zoom-in-left")
       figure.mb-0.text-center
         img.m-auto(src='@/assets/curso/temas/tema5/img8.svg', alt='Titulares de segmentación')
-    figcaption Nota. Tomada de marca registrada Kymco (s.f.)
+    figcaption(data-aos="zoom-in-left") Nota. Tomada de marca registrada Kymco (s.f.)
 
 
     Separador  
-    #t_5_2.titulo-segundo.color-secundario
+    #t_5_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 5.2 Herramientas para la redacción del body copy
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img9.png')
       .col-sm-12.col-lg-7

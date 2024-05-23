@@ -8,9 +8,9 @@
         span 2
       h1 Encabezados
 
-    p.mb-4 Son el elemento enganchador del anuncio, en los impresos son el anzuelo para los espectadores. Un buen encabezado debe cumplir con varios de los siguientes objetivos:
+    p.mb-4(data-aos="zoom-in-left") Son el elemento enganchador del anuncio, en los impresos son el anzuelo para los espectadores. Un buen encabezado debe cumplir con varios de los siguientes objetivos:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
       .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-3
           .col-sm-3.col-lg-5.my-5.d-none.d-lg-block

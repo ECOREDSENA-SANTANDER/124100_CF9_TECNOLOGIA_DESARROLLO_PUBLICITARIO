@@ -8,8 +8,8 @@
       h1 Elementos a tener en cuenta antes de la redacción de textos publicitarios
     
     
-    p.mb-5 Los textos publicitarios se crean siguiendo ciertas técnicas y rutas específicas, no hay casos de inspiración o chispazos creativos que generen ideas mágicas para el desarrollo de textos idóneos y para la comercialización de un producto. Por este motivo, es importante tener en cuenta:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="zoom-in-left") Los textos publicitarios se crean siguiendo ciertas técnicas y rutas específicas, no hay casos de inspiración o chispazos creativos que generen ideas mágicas para el desarrollo de textos idóneos y para la comercialización de un producto. Por este motivo, es importante tener en cuenta:
+    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img1.svg')

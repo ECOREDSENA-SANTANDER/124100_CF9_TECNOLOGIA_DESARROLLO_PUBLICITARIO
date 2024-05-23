@@ -8,8 +8,8 @@
         span 3
       h1 Tipos de titulares
     
-    p.mb-5 Cada campaña es única y particular y el mensaje con que se llega al mercado también. El diseño de los titulares debe estar vinculado y ser coherente con el concepto creativo; es decir, el tono de la comunicación y estilo con que se haya planeado el diseño; así, se pueden encontrar los siguientes:
-    .bg1.px-5.px-sm-0.pt-2.pb-4
+    p.mb-5(data-aos="zoom-in-left") Cada campaña es única y particular y el mensaje con que se llega al mercado también. El diseño de los titulares debe estar vinculado y ser coherente con el concepto creativo; es decir, el tono de la comunicación y estilo con que se haya planeado el diseño; así, se pueden encontrar los siguientes:
+    .bg1.px-5.px-sm-0.pt-2.pb-4(data-aos="zoom-in-left")
       SlyderA(tipo="b")
         .py-3.bg2.px-5
           .row

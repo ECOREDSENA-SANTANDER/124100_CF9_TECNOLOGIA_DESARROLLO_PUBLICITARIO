@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 4
       h1 Subtítulos
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema4/img1.png')
       .col-sm-12.col-lg-5
