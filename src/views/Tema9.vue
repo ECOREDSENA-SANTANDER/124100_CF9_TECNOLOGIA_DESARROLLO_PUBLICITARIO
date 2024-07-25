@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 9
       h1 Uso de las figuras retóricas en el mensaje publicitario
-    p.mb-5(data-aos="zoom-in-left") Ya se ha estudiado en anteriores componentes formativos diferentes métodos para el diseño del mensaje y el concepto publicitario: los insights de producto y consumidor, las tendencias, las características del producto y los estereotipos, los cuales son los recursos que hasta ahora se conocen. Sabiendo que un mensaje efectivo y con dirección hacia un grupo de consumidores previamente seleccionado, es posible construirlo a partir de uno o varios de estos recursos; de esta manera, un estereotipo puede hacer énfasis en su discurso a un insight de consumidor o las características de un producto pueden responder a nuevas tendencias del mercado.
+    p.mb-5(data-aos="zoom-in-left") Ya se ha estudiado en anteriores componentes formativos diferentes métodos para el diseño del mensaje y el concepto publicitario: los #[i insights] de producto y consumidor, las tendencias, las características del producto y los estereotipos, los cuales son los recursos que hasta ahora se conocen. Sabiendo que un mensaje efectivo y con dirección hacia un grupo de consumidores previamente seleccionado, es posible construirlo a partir de uno o varios de estos recursos; de esta manera, un estereotipo puede hacer énfasis en su discurso a un #[i insight] de consumidor o las características de un producto pueden responder a nuevas tendencias del mercado.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema9/img1.png')
@@ -24,7 +24,7 @@
           .row.justify-content-center.align-content-start.mb-5
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Alegoría: 
-              p se denomina alegoría a la correspondencia prolongada de símbolos o metáforas. Consiste en traducir un plano real, A, a un plano imaginario, B, a través de una serie ininterrumpida de metáforas.  
+              p Se denomina alegoría a la correspondencia prolongada de símbolos o metáforas. Consiste en traducir un plano real, A, a un plano imaginario, B, a través de una serie ininterrumpida de metáforas.  
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -46,7 +46,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Símil o comparación:
-              p figura retórica que consiste en relacionar dos términos entre sí para expresar de una manera explícita la semejanza o analogía que presentan las realidades designadas por ellos. Esa relación se establece, generalmente, por medio de partículas o nexos comparativos: “como”, “así́”, “así́ como”, “tal”, “igual que”, “tan”, “semejante a”, “lo mismo que”, etc. 
+              p Figura retórica que consiste en relacionar dos términos entre sí para expresar de una manera explícita la semejanza o analogía que presentan las realidades designadas por ellos. Esa relación se establece, generalmente, por medio de partículas o nexos comparativos: “como”, “así́”, “así́ como”, “tal”, “igual que”, “tan”, “semejante a”, “lo mismo que”, etc. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -67,7 +67,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Personificación o prosopopeya: 
-              p consiste en atribuir características humanas a animales o seres inanimados, como ocurre en las fábulas, cuentos maravillosos y alegorías. En los autos sacramentales (pieza de teatro religioso del drama litúrgico) aparecen ejemplos de personificación alegórica: la culpa, la sabiduría, la gracia, etc. También se aplica el término al hecho de representar una cualidad, virtud o vicio a partir de determinados rasgos de una personalidad que se convierte en prototipo: así Don Juan es la personificación del seductor.
+              p Consiste en atribuir características humanas a animales o seres inanimados, como ocurre en las fábulas, cuentos maravillosos y alegorías. En los autos sacramentales (pieza de teatro religioso del drama litúrgico) aparecen ejemplos de personificación alegórica: la culpa, la sabiduría, la gracia, etc. También se aplica el término al hecho de representar una cualidad, virtud o vicio a partir de determinados rasgos de una personalidad que se convierte en prototipo: así Don Juan es la personificación del seductor.
               p Tipos de prosopopeyas son la animación: atribuir a seres inanimados cualidades de los animados; la animalización: atribuir a seres humanos características de los seres irracionales; y la cosificación: atribuir a los seres vivos cualidades del mundo inanimado.
               a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
                 span.fw-bold.px-5 Ejemplo
@@ -85,7 +85,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Hipérbole:
-              p figura retórica consistente en ofrecer una visión desproporcionada de una realidad, amplificándola o disminuyéndola, es exageración. El poeta desea dar a sus palabras una mayor intensidad o emoción. #[b La hipérbole se concreta en el uso de términos enfáticos y expresiones exageradas. ] Este procedimiento es utilizado con frecuencia en el lenguaje coloquial y en la propaganda. En esta última se produce una comunicación encomiástica (alabanza) desmesurada con el fin de provocar en el oyente la adhesión a su mensaje en el que todo se revela como “excepcional”, “extraordinario”, “colosal”, “fantástico”, etc. 
+              p Figura retórica consistente en ofrecer una visión desproporcionada de una realidad, amplificándola o disminuyéndola, es exageración. El poeta desea dar a sus palabras una mayor intensidad o emoción. #[b La hipérbole se concreta en el uso de términos enfáticos y expresiones exageradas. ] Este procedimiento es utilizado con frecuencia en el lenguaje coloquial y en la propaganda. En esta última se produce una comunicación encomiástica (alabanza) desmesurada con el fin de provocar en el oyente la adhesión a su mensaje en el que todo se revela como “excepcional”, “extraordinario”, “colosal”, “fantástico”, etc. 
               a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
                 span.fw-bold.px-5 Ejemplo
                 .indicador--click(v-if="mostrarIndicador") 
@@ -102,7 +102,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4  Metáfora: 
-              p es una identificación de un objeto con otro en virtud de una relación de semejanza que hay entre ellos; es decir, una comparación. Desde la retórica grecolatina (Aristóteles, Quintiliano) se viene considerando la metáfora como una comparación implícita, fundada sobre el principio de la analogía entre dos realidades, diferentes en algunos aspectos y semejantes en otros. 
+              p Es una identificación de un objeto con otro en virtud de una relación de semejanza que hay entre ellos; es decir, una comparación. Desde la retórica grecolatina (Aristóteles, Quintiliano) se viene considerando la metáfora como una comparación implícita, fundada sobre el principio de la analogía entre dos realidades, diferentes en algunos aspectos y semejantes en otros. 
               p En toda comparación hay un #[b término real, ] que sirve de punto de partida y un término evocado al que se designa generalmente como #[b imagen]. La retórica contemporánea, a la hora de explicar los mecanismos lingüísticos que están en la base de la construcción metafóricas, centra su interés, más que en el aspecto comparativo, en el hecho previo de la semejanza. En este sentido, la metáfora no es en sus orígenes una figura literaria, sino un fenómeno estrictamente lingüístico que afecta a la vía del conocimiento y designación de las cosas por relaciones de semejanza. 
               a.boton.color-acento-botones.indicador__container(@click="modal3 = true")
                 span.fw-bold.px-5 Ejemplo
@@ -120,7 +120,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Antítesis o contraste: 
-              p contrapone dos ideas o pensamientos; es una asociación de conceptos por contraste (amor-odio, blanco-negro, etc.). El contraste puede ser por oposición de palabras (antónimos), frases de significado contrario, etc. 
+              p Contrapone dos ideas o pensamientos; es una asociación de conceptos por contraste (amor-odio, blanco-negro, etc.). El contraste puede ser por oposición de palabras (antónimos), frases de significado contrario, etc. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -144,7 +144,7 @@
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Reiteración o anáfora: 
-              p es una repetición de palabras al principio de un verso o al principio de frases semejantes para recalcar alguna idea. 
+              p Es una repetición de palabras al principio de un verso o al principio de frases semejantes para recalcar alguna idea. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -170,7 +170,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Ironía: 
-              p expresión de lo contrario a lo que se piensa de tal forma que por el contexto, el receptor puede reconocer la verdadera intención del emisor. 
+              p Expresión de lo contrario a lo que se piensa de tal forma que por el contexto, el receptor puede reconocer la verdadera intención del emisor. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -193,7 +193,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Aliteración: 
-              p es una repetición de dos o más sonidos iguales o parecidos en varias palabras consecutivas de un mismo verso, estrofa o frase. 
+              p Es una repetición de dos o más sonidos iguales o parecidos en varias palabras consecutivas de un mismo verso, estrofa o frase. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -213,7 +213,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Énfasis: 
-              p término de origen griego (empha-sis, de emphaino: hacer ver) con el que se designa una figura retórica que se produce cuando el emisor enuncia, de forma alusiva y sugerente, un mensaje del que se sobreentiende más de lo que se dice y cuyo sentido pleno depende del contexto y de la intensidad y entonación con que suele resaltarse dicho mensaje. 
+              p Término de origen griego (empha-sis, de emphaino: hacer ver) con el que se designa una figura retórica que se produce cuando el emisor enuncia, de forma alusiva y sugerente, un mensaje del que se sobreentiende más de lo que se dice y cuyo sentido pleno depende del contexto y de la intensidad y entonación con que suele resaltarse dicho mensaje. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -233,7 +233,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Oxímoron: 
-              p figura literaria consistente en la unión de dos términos de significado opuesto que, lejos de excluirse, se complementan para resaltar el mensaje que transmiten. 
+              p Figura literaria consistente en la unión de dos términos de significado opuesto que, lejos de excluirse, se complementan para resaltar el mensaje que transmiten. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -252,7 +252,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Repetición: 
-              p figura retórica consistente en la reiteración de palabras u otros recursos expresivos, es un procedimiento que genera una relevancia poética. En todo poema aparecen elementos reiterativos con esa función: ya sea el acento, las pausas, la aliteración, el isosilabismo, la rima o el estribillo, etc. 
+              p Figura retórica consistente en la reiteración de palabras u otros recursos expresivos, es un procedimiento que genera una relevancia poética. En todo poema aparecen elementos reiterativos con esa función: ya sea el acento, las pausas, la aliteración, el isosilabismo, la rima o el estribillo, etc. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -271,7 +271,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Sinestesia: 
-              p procedimiento que consiste en una transposición de sensaciones, es decir, es la descripción de una experiencia sensorial en términos de otra. 
+              p Procedimiento que consiste en una transposición de sensaciones, es decir, es la descripción de una experiencia sensorial en términos de otra. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -293,7 +293,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Elipsis o elipse:
-              p supresión de un elemento de la frase, sobreentendido por el contexto (sin perjuicio de la claridad), dotándola de brevedad, energía, rapidez y poder sugestivo. Aporta rapidez e intensidad. 
+              p Supresión de un elemento de la frase, sobreentendido por el contexto (sin perjuicio de la claridad), dotándola de brevedad, energía, rapidez y poder sugestivo. Aporta rapidez e intensidad. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -319,7 +319,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Epíteto: 
-              p es el adjetivo, que colocado delante del sustantivo expresa una cualidad innecesaria o inherente de alguna persona o cosa con fines estéticos.
+              p Es el adjetivo, que colocado delante del sustantivo expresa una cualidad innecesaria o inherente de alguna persona o cosa con fines estéticos.
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -341,7 +341,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Onomatopeya: 
-              p consiste en imitar sonidos reales por medio del ritmo de las palabras. Variedad de la aliteración que imita sonidos de la naturaleza. 
+              p Consiste en imitar sonidos reales por medio del ritmo de las palabras. Variedad de la aliteración que imita sonidos de la naturaleza. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -361,7 +361,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Paradoja: 
-              p unión de dos ideas contrapuestas. Es una antítesis superada porque une ideas contradictorias por naturaleza, en un mismo pensamiento. Tras la aparente contraposición, hay un sentido profundo. 
+              p Unión de dos ideas contrapuestas. Es una antítesis superada porque une ideas contradictorias por naturaleza, en un mismo pensamiento. Tras la aparente contraposición, hay un sentido profundo. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -382,7 +382,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Perífrasis (circunlocución o circunloquio): 
-              p dice con un rodeo de palabras lo que podría decirse con menos o hasta con una sola. 
+              p Dice con un rodeo de palabras lo que podría decirse con menos o hasta con una sola. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -405,7 +405,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Eufemismo: 
-              p es la perífrasis que se emplea para evitar una expresión penosa u horrenda, grosera o malsonante. Forma de expresión amable para ocultar o disimular algo desagradable o tabú́.
+              p Es la perífrasis que se emplea para evitar una expresión penosa u horrenda, grosera o malsonante. Forma de expresión amable para ocultar o disimular algo desagradable o tabú́.
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -426,7 +426,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Sarcasmo: 
-              p es la ironía misma cuando pasa al tono amargo o mordaz, cruel, insultante. 
+              p Es la ironía misma cuando pasa al tono amargo o mordaz, cruel, insultante. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -446,7 +446,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Metonimia: 
-              p es una figura retórica que consiste en designar una cosa o idea con el nombre de otra con la cual existe una relación de dependencia o causalidad (causa-efecto, contenedor-contenido, autor-obra, símbolo-significado, etc.).
+              p Es una figura retórica que consiste en designar una cosa o idea con el nombre de otra con la cual existe una relación de dependencia o causalidad (causa-efecto, contenedor-contenido, autor-obra, símbolo-significado, etc.).
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -466,7 +466,7 @@
           .row
             .col-sm-12.col-lg-9.mb-0.mt-5
               .h4 Sinécdoque: 
-              p tipo de metonimia basada en una relación cuantitativa: el todo por la parte, la parte por el todo, la materia por el objeto. 
+              p Tipo de metonimia basada en una relación cuantitativa: el todo por la parte, la parte por el todo, la materia por el objeto. 
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0

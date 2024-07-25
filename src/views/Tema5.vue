@@ -7,14 +7,14 @@
         span 5
       h1 Cuerpo de texto
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p.mb-0 También conocido como <i>body copy</i>, es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
-        .titulo-sexto.color-secundario.mt-5
+        p.mb-0 También conocido como #[i body copy], es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
+      .col-sm-12.col-lg-3
+        .titulo-sexto.color-secundario
           h5 Figura 10.
           span
             | Cuerpo de texto
-      .col-sm-12.col-lg-3
         figure
           img(src='@/assets/curso/temas/tema5/img1.png', alt='En la imagen se presenta un chocolate partido dejando ver en su interior su relleno, en la parte superior la siguiente leyenda: “Healthy Thinking. Its Whats Inside” y en la parte inferior una leyenda de  cinco líneas poco legible.')
           figcaption Nota. Tomada de marca registrada L'Oréal (s.f.)
@@ -28,7 +28,7 @@
             .col-sm-12.col-lg-5
               img(src='@/assets/curso/temas/tema5/img2.svg')
           .title-card.bg4 Línea directa
-          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si esta ya se mencionó en el titular, el <i>body copy</i> resalta dichos beneficios y sus características principales.
+          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si esta ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 11.
             span
@@ -60,7 +60,7 @@
             .col-sm-12.col-lg-5
               img(src='@/assets/curso/temas/tema5/img4.svg')
           .title-card.bg6 Narración
-          p.my-5.text-center Este tipo de <i>body copy</i> expone de forma ordenada un conjunto de declaraciones positivas acerca de la marca. Esta técnica puede resultar un poco aburrida para el lector.
+          p.my-5.text-center Este tipo de #[i body copy] expone de forma ordenada un conjunto de declaraciones positivas acerca de la marca. Esta técnica puede resultar un poco aburrida para el lector.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 13.
             span
@@ -69,9 +69,7 @@
             img.w-50.m-auto(src='@/assets/curso/temas/tema5/img7.png', alt='La imagen presenta caja de la marcha  Kelloggs Corn Flakes sobre un recuadro negro y  en la parte superior la leyenda:  “Kelloggs, el desayuno completo. A las madres les gusta porque a sus hijos les encanta”')
             figcaption Nota. Tomada de marca registrada Kellogg's (s.f.)
 
-    .d-flex(data-aos="zoom-in-left")
-      .bg7 Ejemplo 
-      .bg8 textos publicitarios
+    
 
     .titulo-sexto.color-secundario.mt-5(data-aos="zoom-in-left")
         h5 Figura 14.
@@ -85,7 +83,7 @@
 
     Separador  
     #t_5_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2 5.2 Herramientas para la redacción del <i>body copy</i>
+      h2 5.2 Herramientas para la redacción del #[i body copy]
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img9.png')
@@ -104,7 +102,7 @@
 
           .row(titulo="Párrafos y frases de extensiones diversas")
             .col-sm-12.col-lg-12
-              p.mb-0.pl-cus Variar la extensión de los párrafos de un <i>body copy</i> le puede sumar estética a un anuncio, además de hacerlo más interesante y fácil de leer.
+              p.mb-0.pl-cus Variar la extensión de los párrafos de un #[i body copy] le puede sumar estética a un anuncio, además de hacerlo más interesante y fácil de leer.
           
           .row(titulo="Hacer partícipe")
             .col-sm-12.col-lg-12

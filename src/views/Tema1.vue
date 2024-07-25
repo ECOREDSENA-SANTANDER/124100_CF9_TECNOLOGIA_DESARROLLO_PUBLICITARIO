@@ -16,7 +16,7 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Tener un argumento de venta claro:
-              p.mb-0 este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
+              p.mb-0 Este argumento debe tener como base un beneficio; es decir, la propuesta de valor que ya se ha visto en otros componentes formativos. Este argumento debe ser la base para el desarrollo de los textos principales de la pieza y se convierte en el elemento persuasivo.
 
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
@@ -24,7 +24,7 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Escribir con claridad: 
-              p.mb-0 la mayoría de mercados objetivo ignoran los anuncios con lenguaje complejo o en los que tengan que deducir el mensaje, entre más claro y contundente mejor.
+              p.mb-0 La mayoría de mercados objetivo ignoran los anuncios con lenguaje complejo o en los que tengan que deducir el mensaje, entre más claro y contundente mejor.
 
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
@@ -32,7 +32,7 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Estimular la imaginación del lector: 
-              p.mb-0 llevar el mensaje paso a paso, contar una historia; de esta forma, el espectador se conecta con la pieza e imagina al tiempo que la lee.
+              p.mb-0 Llevar el mensaje paso a paso, contar una historia; de esta forma, el espectador se conecta con la pieza e imagina al tiempo que la lee.
       
       .col-sm-12.col-lg-3
         .tarjeta-avatar
@@ -40,7 +40,7 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4  Menos es más: 
-              p.mb-0 no excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
+              p.mb-0 No excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
 
 </template>
 

@@ -133,6 +133,12 @@ export default {
     ],
     subMenu: [
       {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
+      {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
@@ -220,7 +226,7 @@ export default {
         '<i>(slogan)</i>. Término de origen inglés utilizado para recordar una marca o un producto, por medio de una frase de fácil memorización, en los mensajes publicitarios. ',
     },
     {
-      termino: 'Guion',
+      termino: 'Guión',
       significado:
         'plan a escala reducida de un libro o una secuencia cinematográfica, utilizado para anticipar y planificar un diseño con muchas etapas. ',
     },
@@ -298,8 +304,7 @@ export default {
         'https://sites.google.com/site/ayenhuelugardivertido/figuras-literarias',
     },
     {
-      referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC. ',
-      link: 'https://www.retoricas.com/ ',
+      referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC.',
     },
   ],
   creditos: [
@@ -372,7 +377,12 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -381,12 +391,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

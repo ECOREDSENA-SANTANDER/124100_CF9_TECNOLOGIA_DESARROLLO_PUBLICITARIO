@@ -12,7 +12,7 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema8/img1.png', alt='Redacción para medios audiovisuales')
       .col-sm-12.col-lg-8
-        p.mb-4 Hace unos pocos años la televisión era el medio por excelencia para lograr el posicionamiento efectivo de una marca, pero hoy los medios digitales la han desplazado de tal manera que se le ha relegado a presupuestos muy bajos en las empresas que están llegando a su mercado objetivo a través de espacios digitales en donde está hoy el interés del grueso de los consumidores. Sin embargo, el formato sigue siendo el mismo en muchos casos, nada mejor que el audiovisual para llegar con el mensaje de manera más efectiva y contundente al target de un producto o servicio.
+        p.mb-4 Hace unos pocos años la televisión era el medio por excelencia para lograr el posicionamiento efectivo de una marca, pero hoy los medios digitales la han desplazado de tal manera que se le ha relegado a presupuestos muy bajos en las empresas que están llegando a su mercado objetivo a través de espacios digitales en donde está hoy el interés del grueso de los consumidores. Sin embargo, el formato sigue siendo el mismo en muchos casos, nada mejor que el audiovisual para llegar con el mensaje de manera más efectiva y contundente al #[i target] de un producto o servicio.
         p.mb-0 El audiovisual tiene la capacidad de crear un estado de ánimo o de demostrar cómo se usa un producto o servicio. Cuando se redacta para un audiovisual se deben tener presente algunos aspectos importantes del mensaje: primero, el carácter de audiovisual implica que además de palabras hay otros elementos importantes que logran transmitir sensaciones y emociones que apoyan al texto; por ejemplo, los efectos visuales, especiales y de sonido. En segundo lugar, los tiempos, si bien las redes sociales permiten extenderse en cuanto a la duración de los videos, son los mismos espectadores los que le ponen límite a ello; un audiovisual promocional de más de un minuto impide la concentración de quien lo ve y obliga a ser cortado en cualquier momento, el reto está en crear un mensaje claro, contundente y enganchador en pocos segundos. 
        
     .row.justify-content-center(data-aos="zoom-in-left")
@@ -32,19 +32,19 @@
             p.mb-0.pl-cus Se presenta a una marca solucionando una situación difícil y particular del mercado objetivo, por lo general expone una escena cotidiana en la que el consumidor resuelve un problema con el producto o servicio que se está anunciando. Este formato es muy dado para productos del hogar, insecticidas o servicios especializados como seguros. En este formato la redacción hace énfasis en diálogos y comentario de la efectividad de la marca anunciada.
       .row(titulo="Música y canto")
         .col-sm-12.col-lg-12
-            p.mb-0.pl-cus Este formato crea una atmósfera y un estado de ánimo especiales. Es muy utilizado en bebidas como el café, las gaseosas y las cervezas. Permite mostrar el producto en acción acompañado de música y efectos sonoros. En este formato el texto se centra en las características del producto y en la intencionalidad de las mismas, así como el jingle que acompaña el audiovisual.
+            p.mb-0.pl-cus Este formato crea una atmósfera y un estado de ánimo especiales. Es muy utilizado en bebidas como el café, las gaseosas y las cervezas. Permite mostrar el producto en acción acompañado de música y efectos sonoros. En este formato el texto se centra en las características del producto y en la intencionalidad de las mismas, así como el #[i jingle] que acompaña el audiovisual.
       .row(titulo="Testimoniales")
         .col-sm-12.col-lg-12
             p.mb-0.pl-cus Aquí un vocero proporciona un alto nivel de credibilidad al mensaje, en este punto es viable utilizar expertos, celebridades o usuarios satisfechos. El espectador siente un nivel de confianza superior y se siente identificado. Es muy útil para productos alimenticios, medicinas, aseo personal y servicios. En este punto el texto se centra en el guion de vocero, pero debe estar ligado a la actitud y naturalidad del actor.
       .row(titulo="Diálogo")
         .col-sm-12.col-lg-12
-            p.mb-0.pl-cus Presenta conversaciones entre dos o más personajes, es importante que se redacte una conversación creíble y natural que dé dinamismo al anuncio; este describe una escena cotidiana en la que interactúan familiares o amigos utilizando la marca.'
+            p.mb-0.pl-cus Presenta conversaciones entre dos o más personajes, es importante que se redacte una conversación creíble y natural que dé dinamismo al anuncio; este describe una escena cotidiana en la que interactúan familiares o amigos utilizando la marca.
       .row(titulo="Viñetas")
         .col-sm-12.col-lg-12
             p.mb-0.pl-cus Es un formato creativo que implica una planeación más dedicada, se realiza a través de anuncios cortos que se van hilando entre sí y cuentan una historia secuenciada. La redacción está enfocada en contar la historia. Este formato permite enganchar al espectador, crea interés en la marca y genera posicionamiento.
       .row(titulo="Narración")
         .col-sm-12.col-lg-12
-            p.mb-0.pl-cus Es tal vez el formato más efectivo para el desarrollo de publicidad en redes sociales y conocido en la actualidad como storytelling. Se utiliza para contar historias lineales que tienen implícitas diferentes emociones y sensaciones a través del drama, a veces combinado con humor y ficción. Este formato le proporciona mucha personalidad a la marca, puede hacer énfasis en el beneficio que esta le proporciona al mercado objetivo y aumenta su posicionamiento.
+            p.mb-0.pl-cus Es tal vez el formato más efectivo para el desarrollo de publicidad en redes sociales y conocido en la actualidad como #[i storytelling]. Se utiliza para contar historias lineales que tienen implícitas diferentes emociones y sensaciones a través del drama, a veces combinado con humor y ficción. Este formato le proporciona mucha personalidad a la marca, puede hacer énfasis en el beneficio que esta le proporciona al mercado objetivo y aumenta su posicionamiento.
       .row(titulo="Animación")
         .col-sm-12.col-lg-12
             p.mb-0.pl-cus Es una técnica que se puede combinar con otros formatos. Los personajes, las caricaturas y las demostraciones tridimensionales permiten apoyar de forma contundente el mensaje. Casos en los que se requiere una explicación detallada del funcionamiento de un producto o servicio, productos para niños, el efecto de un medicamento en el cuerpo, el proceso que realiza una máquina internamente, entre otros, pueden ser los usos más significativos de este formato audiovisual. La redacción tiene aquí un papel preponderante, pues implica el diseño del guion que servirá de base para el desarrollo de las animaciones y los textos de apoyo en el audiovisual final, que reforzarán el mensaje.
@@ -68,7 +68,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img4.svg')
-        p.mb-0.br-cus #[b Coordinar audio y video:] ambos deben contar la misma historia. La selección de la música de fondo, los efectos de sonido, los diálogos y las voces en off deben estar completamente relacionados con el video.
+        p.mb-0.br-cus #[b Coordinar audio y video:] ambos deben contar la misma historia. La selección de la música de fondo, los efectos de sonido, los diálogos y las voces en #[i off] deben estar completamente relacionados con el video.
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema8/img5.svg')
         p.mb-0 #[b Ser sencillo en la redacción:] los textos largos y muy cargados de información tienden a generar rechazo en el espectador, por ello hay que utilizar la menor cantidad de palabras para decir lo que los objetivos han planteado
