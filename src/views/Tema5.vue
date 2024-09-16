@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p.mb-0 También conocido como #[i body copy], es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
+        p.mb-cus También conocido como #[i body copy], es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
       .col-sm-12.col-lg-3
         .titulo-sexto.color-secundario
           h5 Figura 10.
@@ -25,9 +25,9 @@
       .col-sm-12.col-lg-4
         .bg3.px-5.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-5.d-none.d-lg-block
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-5.m-auto
               img(src='@/assets/curso/temas/tema5/img2.svg')
-          .title-card.bg4 Línea directa
+          h4.title-card.bg4.text-white Línea directa
           p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si esta ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 11.
@@ -42,9 +42,9 @@
       .col-sm-12.col-lg-4
         .bg3.px-5.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-5.d-none.d-lg-block
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-5.m-auto
               img(src='@/assets/curso/temas/tema5/img3.svg')
-          .title-card.bg5 Diálogo
+          h4.title-card.bg5 Diálogo
           p.my-5.text-center Este tipo de texto, por lo general, está acompañado de un personaje que le habla directamente al lector, esto involucra al espectador con la pieza gráfica.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 12.
@@ -57,9 +57,9 @@
       .col-sm-12.col-lg-4
         .bg3.px-5.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-5.d-none.d-lg-block
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-5.m-auto
               img(src='@/assets/curso/temas/tema5/img4.svg')
-          .title-card.bg6 Narración
+          h4.title-card.bg6.text-white Narración
           p.my-5.text-center Este tipo de #[i body copy] expone de forma ordenada un conjunto de declaraciones positivas acerca de la marca. Esta técnica puede resultar un poco aburrida para el lector.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 13.

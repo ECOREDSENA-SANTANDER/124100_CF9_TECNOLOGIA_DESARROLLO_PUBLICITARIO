@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Redacción de textos publicitarios',
     descripcionCurso:
       'Los textos publicitarios han sido, son y seguirán siendo un elemento fundamental en la publicidad, puesto que no se puede hacer un anuncio audiovisual sin que antes haya sido escrito. De la misma forma, los eslóganes y titulares de los anuncios gráficos representan una parte primordial del mensaje y requieren conocimiento, creatividad y análisis para lograr resultados atractivos y persuasivos. El rol del redactor junto con el diseñador gráfico son la base para la construcción del mensaje publicitario, el concepto y en muchas ocasiones la estrategia creativa.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -297,11 +297,6 @@ export default {
     {
       referencia: 'Retoricas.com (2009). Las figuras retóricas',
       link: 'https://www.retoricas.com/ ',
-    },
-    {
-      referencia: 'San Martín, M. (s.f.). Figuras literarias. ',
-      link:
-        'https://sites.google.com/site/ayenhuelugardivertido/figuras-literarias',
     },
     {
       referencia: 'Vila, F. (2013). Comunicación estratégica. Editorial UOC.',

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La redacción de textos publicitarios es un elemento fundamental para el desarrollo publicitario, es el punto de partida para la creación de un anuncio, la creación de los eslóganes y titulares requieren creatividad, conocimiento y análisis, en el siguiente cuadro se presentan diferentes tipos de textos publicitarios y la relación que existe entre su creación y el desarrollo de una estrategia creativa de una marca. 
 
     .row.justify-content-center
       .col-lg-10.mb-5
