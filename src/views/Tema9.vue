@@ -439,7 +439,7 @@
                 span
                   |   Sarcasmo
               figure
-                img(src='@/assets/curso/temas/tema9/img21.png', alt='La imagen representa  múltiples rostros  con diferentes nes , dibujados sobre objetos circulares.')
+                img(src='@/assets/curso/temas/tema9/img21.png', alt='La imagen representa  múltiples rostros con diferentes expresiones, dibujados sobre objetos circulares.')
               figcaption Nota. Tomada de marca registrada Greenpeace (s.f.)
 
         .py-3.bg2.px-5
