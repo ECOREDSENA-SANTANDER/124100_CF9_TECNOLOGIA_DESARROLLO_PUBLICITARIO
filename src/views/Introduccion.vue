@@ -13,7 +13,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/CJELMw9AI4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Introducción
+      figcaption Video: Introducción, redacción de textos publicitarios.
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/intro/img1.svg', alt='')

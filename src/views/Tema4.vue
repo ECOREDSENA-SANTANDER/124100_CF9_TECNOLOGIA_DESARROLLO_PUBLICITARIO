@@ -18,7 +18,7 @@
           span
             | Subtítulo
         figure
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='En la imagen se prsentan sobre un recuadro rojo cuatro labiales,  en la parte superior el texto: “ This is ad for men”,  y en la parte inferior en letra más pequeña la marca Loreal.')
+          img(src='@/assets/curso/temas/tema4/img2.png', alt='En la imagen se presentan sobre un recuadro rojo cuatro labiales,  en la parte superior el texto: “ This is ad for men”,  y en la parte inferior en letra más pequeña la marca Loreal.')
           figcaption Nota. Tomada de marca registrada L'Oréal (s.f.)
 
 

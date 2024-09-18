@@ -15,7 +15,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titular directo:
-              p es imperativo; es decir, de mandato. La teoría publicitaria dice que el ser humano por evolución está diseñado para recibir y ejecutar órdenes. Sin embargo, la eficacia de los #[b #[i Call To Action]] imperativos es cada vez menor por el uso frecuente y abusivo que se le da en la publicidad. Expresiones como #[strong “inscríbete”, “venga hoy mismo” o “llámenos ahora”] son cortos y llamativos, pero pueden ser poco relevantes e identificar en casi nada al mercado objetivo. Entre mejor se hable al mercado, mejor será la interacción con él.
+              p Es imperativo; es decir, de mandato. La teoría publicitaria dice que el ser humano por evolución está diseñado para recibir y ejecutar órdenes. Sin embargo, la eficacia de los #[b #[i Call To Action]] imperativos es cada vez menor por el uso frecuente y abusivo que se le da en la publicidad. Expresiones como #[strong “inscríbete”, “venga hoy mismo” o “llámenos ahora”] son cortos y llamativos, pero pueden ser poco relevantes e identificar en casi nada al mercado objetivo. Entre mejor se hable al mercado, mejor será la interacción con él.
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 1.
@@ -29,7 +29,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares indirectos:
-              p son muy utilizados en publicidad contemporánea; brindan poca información, pero tienen alto poder de atracción al mercado objetivo, así, con las palabras adecuadas lo identifican y también pueden mencionar la propuesta de valor.
+              p Son muy utilizados en publicidad contemporánea; brindan poca información, pero tienen alto poder de atracción al mercado objetivo, así, con las palabras adecuadas lo identifican y también pueden mencionar la propuesta de valor.
             .col-sm-12.col-lg-4.mb-0.mb-md-0
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 2.
@@ -43,7 +43,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares que hacen referencia al nombre:
-              p son muy utilizados en productos o servicios con alto nivel de posicionamiento y aprovechan esa condición para generar mayor atracción del mercado.
+              p Son muy utilizados en productos o servicios con alto nivel de posicionamiento y aprovechan esa condición para generar mayor atracción del mercado.
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 3.
@@ -57,7 +57,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares promocionales:
-              p son de uso poco frecuente, pues las empresas no hacen estrategias de promoción de venta con regularidad. Tienen características similares a los titulares directos, pero con el énfasis en la promoción.
+              p Son de uso poco frecuente, pues las empresas no hacen estrategias de promoción de venta con regularidad. Tienen características similares a los titulares directos, pero con el énfasis en la promoción.
             .col-sm-12.col-lg-4.mb-0.mb-md-0
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 4.
@@ -72,7 +72,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares interrogativos:
-              p son muy eficaces para generar curiosidad en el espectador; presentan mejor efectividad si las preguntas son coherentes, directas y sencillas; pueden tener doble sentido y aludir al humor.
+              p Son muy eficaces para generar curiosidad en el espectador; presentan mejor efectividad si las preguntas son coherentes, directas y sencillas; pueden tener doble sentido y aludir al humor.
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 5.
@@ -86,7 +86,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares de segmentación:
-              p tienen un direccionamiento muy específico hacia el #[i target] de la marca, producto o servicio; además de un alto nivel de identificación con el mercado objetivo y pueden hacer más evidente la propuesta de valor o el argumento de venta, porque puede tener un enfoque más directo en las necesidades.
+              p Tienen un direccionamiento muy específico hacia el #[i target] de la marca, producto o servicio; además de un alto nivel de identificación con el mercado objetivo y pueden hacer más evidente la propuesta de valor o el argumento de venta, porque puede tener un enfoque más directo en las necesidades.
             .col-sm-12.col-lg-4.mb-0.mb-md-0
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 6.
@@ -100,7 +100,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares combinados:
-              p se crean en combinación perfecta con la imagen del anuncio y permiten al consumidor pensar para hacer la relación entre los dos elementos. Muchas veces el texto es complemento de la imagen que presenta un contexto.
+              p Se crean en combinación perfecta con la imagen del anuncio y permiten al consumidor pensar para hacer la relación entre los dos elementos. Muchas veces el texto es complemento de la imagen que presenta un contexto.
             .col-sm-12.col-lg-4.mb-0.mb-md-0
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 7.
@@ -114,7 +114,7 @@
           .row
             .col-sm-12.col-lg-8.mb-0.mt-5
               .h4 Titulares noticia:
-              p se utilizan para relanzamientos o mejoras en productos o servicios, también pueden ser viables en anuncios promocionales.      
+              p Se utilizan para relanzamientos o mejoras en productos o servicios, también pueden ser viables en anuncios promocionales.      
             .col-sm-12.col-lg-4.mb-0.mb-md-0
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 8.

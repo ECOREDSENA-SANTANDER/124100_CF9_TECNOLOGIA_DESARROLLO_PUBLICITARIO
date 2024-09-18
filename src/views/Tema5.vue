@@ -17,7 +17,7 @@
             | Cuerpo de texto
         figure
           img(src='@/assets/curso/temas/tema5/img1.png', alt='En la imagen se presenta un chocolate partido dejando ver en su interior su relleno, en la parte superior la siguiente leyenda: “Healthy Thinking. Its Whats Inside” y en la parte inferior una leyenda de  cinco líneas poco legible.')
-          figcaption Nota. Tomada de marca registrada L'Oréal (s.f.)
+          figcaption Nota. Tomada de marca registrada DuPont (s.f.)
     Separador  
     #t_5_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 5.1 Técnicas para el desarrollo de cuerpos de texto 
