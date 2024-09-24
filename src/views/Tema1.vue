@@ -39,7 +39,7 @@
           img(src='@/assets/curso/temas/tema1/img4.svg')
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
-              h4.text-center.mt-4  Menos es más: 
+              h4.text-center.mt-4  Menos, es más: 
               p.mb-0 No excederse en palabras o elementos innecesarios solo para llenar espacio, decir lo justo para cumplir con los objetivos de la campaña, pero tratar de tener toda la información posible.
 
 </template>

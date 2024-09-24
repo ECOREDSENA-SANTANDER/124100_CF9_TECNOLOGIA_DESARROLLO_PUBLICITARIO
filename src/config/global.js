@@ -258,7 +258,7 @@ export default {
     {
       termino: 'Texto',
       significado:
-        'escrito publicitario que se utiliza para imprimir en el propio anuncio gráfico o para locución de un anuncio televisivo o una cuña radiofónica. En publicidad se distingue mucho entre titulares y textos, ya que van próximos pero no son lo mismo.',
+        'escrito publicitario que se utiliza para imprimir en el propio anuncio gráfico o para locución de un anuncio televisivo o una cuña radiofónica. En publicidad se distingue mucho entre titulares y textos, ya que van próximos, pero no son lo mismo.',
     },
     {
       termino: 'Titular',

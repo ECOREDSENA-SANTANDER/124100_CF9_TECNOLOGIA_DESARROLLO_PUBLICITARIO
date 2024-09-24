@@ -29,11 +29,11 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic “Nuestras vidas son los ríos 
-              p.mb-0.mr-cus.fst-italic Que van a dar en la mar... 
-              p.mb-0.mr-cus.fst-italic Allí́ van los señoríos. 
-              p.mb-0.mr-cus.fst-italic Allí́ los ríos caudales. 
-              p.mb-0.mr-cus.fst-italic Allí́ los otros medianos... 
+              p.mb-0.mr-cus “Nuestras vidas son los ríos 
+              p.mb-0.mr-cus Que van a dar en la mar... 
+              p.mb-0.mr-cus Allí́ van los señoríos. 
+              p.mb-0.mr-cus Allí́ los ríos caudales. 
+              p.mb-0.mr-cus Allí́ los otros medianos... 
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 15.
@@ -51,10 +51,10 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic “Murmullo que en el alma 
-              .mb-0.mr-cus.fst-italic se eleva y va creciendo, 
-              .mb-0.mr-cus.fst-italic como volcán que sordo 
-              .mb-0.mr-cus.fst-italic anuncia que va a arder”.
+              p.mb-0.mr-cus “Murmullo que en el alma 
+              .mb-0.mr-cus se eleva y va creciendo, 
+              .mb-0.mr-cus como volcán que sordo 
+              .mb-0.mr-cus anuncia que va a arder”.
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 16.
@@ -125,11 +125,11 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic A florecer las flores madrugaron. 
-              p.mb-0.mr-cus.fst-italic Y para envejecerse florecieron; 
-              p.mb-0.mr-cus.fst-italic Cuna y sepulcro en un botón hallaron. 
-              p.mb-0.mr-cus.fst-italic El día y la noche me traen tu fresco perfume de regreso a casa. 
-              p.mb-0.mr-cus.fst-italic El odio y el amor reinan miserablemente nuestras vidas. 
+              p.mb-0.mr-cus A florecer las flores madrugaron. 
+              p.mb-0.mr-cus Y para envejecerse florecieron; 
+              p.mb-0.mr-cus Cuna y sepulcro en un botón hallaron. 
+              p.mb-0.mr-cus El día y la noche me traen tu fresco perfume de regreso a casa. 
+              p.mb-0.mr-cus El odio y el amor reinan miserablemente nuestras vidas. 
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 20.
@@ -149,13 +149,13 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic ¿Soledad, y está el pájaro en el árbol, 
-              p.mb-0.mr-cus.fst-italic soledad, y está el agua en las orillas, 
-              p.mb-0.mr-cus.fst-italic soledad, y está el viento en la nube, 
-              p.mb-0.mr-cus.fst-italic soledad, y está el mundo con nosotros, 
-              p.mb-0.mr-cus.fst-italic soledad, y estás tú conmigo solos? 
-              p.mb-0.mr-cus.fst-italic Blanca, blanca, blanca como la nieve... 
-              p.mb-0.mr-cus.fst-italic ... vuela pájaro azul, vuela, vuela.
+              p.mb-0.mr-cus ¿Soledad, y está el pájaro en el árbol, 
+              p.mb-0.mr-cus soledad, y está el agua en las orillas, 
+              p.mb-0.mr-cus soledad, y está el viento en la nube, 
+              p.mb-0.mr-cus soledad, y está el mundo con nosotros, 
+              p.mb-0.mr-cus soledad, y estás tú conmigo solos? 
+              p.mb-0.mr-cus Blanca, blanca, blanca como la nieve... 
+              p.mb-0.mr-cus ... vuela pájaro azul, vuela, vuela.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 21.
@@ -175,10 +175,10 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic ¿Y quién duda de que tenemos libertad de imprenta? 
-              p.mb-0.mr-cus.fst-italic ¿Qué quieres imprimir una esquela de muerto;
-              p.mb-0.mr-cus.fst-italic más todavía, una tarjeta con todo tu nombre y
-              p.mb-0.mr-cus.fst-italic tu apellido bien especificado? Nadie te lo estorba. 
+              p.mb-0.mr-cus ¿Y quién duda de que tenemos libertad de imprenta? 
+              p.mb-0.mr-cus ¿Qué quieres imprimir una esquela de muerto;
+              p.mb-0.mr-cus más todavía, una tarjeta con todo tu nombre y
+              p.mb-0.mr-cus tu apellido bien especificado? Nadie te lo estorba. 
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 22.
@@ -198,7 +198,7 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Una torrentera rojiza rasga la roca... 
+              p.mb-0.mr-cus Una torrentera rojiza rasga la roca... 
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 23.
@@ -218,7 +218,7 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Antonio llegó, después de largos años de estudio, a la casa de sus padres. Esfuerzo y sufrimiento se ven coronados ahora con su título de ingeniero. Carrera, un naciente prestigio; dinero, sino de sobra, por lo menos suficiente para vivir con decoro. Lo que había soñado cuando se fue: ser un señor ingeniero.
+              p.mb-0.mr-cus Antonio llegó, después de largos años de estudio, a la casa de sus padres. Esfuerzo y sufrimiento se ven coronados ahora con su título de ingeniero. Carrera, un naciente prestigio; dinero, sino de sobra, por lo menos suficiente para vivir con decoro. Lo que había soñado cuando se fue: ser un señor ingeniero.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 24.
@@ -238,7 +238,7 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic La noche de los muertos vivientes.
+              p.mb-0.mr-cus La noche de los muertos vivientes.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 25.
@@ -257,7 +257,7 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic La casa es preciosa y cómoda: hasta cierto punto cómoda, en orden a su desorden.
+              p.mb-0.mr-cus La casa es preciosa y cómoda: hasta cierto punto cómoda, en orden a su desorden.
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 26.
@@ -276,9 +276,9 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic “Que el alma que hablar puede con los ojos 
-              p.mb-0.mr-cus.fst-italic también puede besar con la mirada”. 
-              p.mb-0.mr-cus.fst-italic “Sobre la tierra amarga caminos tiene el sueño. ¡Qué tristeza de olor de jazmín!”. 
+              p.mb-0.mr-cus “Que el alma que hablar puede con los ojos 
+              p.mb-0.mr-cus también puede besar con la mirada”. 
+              p.mb-0.mr-cus “Sobre la tierra amarga caminos tiene el sueño. ¡Qué tristeza de olor de jazmín!”. 
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 27.
@@ -298,11 +298,11 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic A enemigo que huye, puente de plata. 
-              p.mb-0.mr-cus.fst-italic Por una mirada, un mundo; 
-              p.mb-0.mr-cus.fst-italic por una sonrisa, un cielo; 
-              p.mb-0.mr-cus.fst-italic por un beso… ¡yo no sé 
-              p.mb-0.mr-cus.fst-italic qué te diera por un beso! 
+              p.mb-0.mr-cus A enemigo que huye, puente de plata. 
+              p.mb-0.mr-cus Por una mirada, un mundo; 
+              p.mb-0.mr-cus por una sonrisa, un cielo; 
+              p.mb-0.mr-cus por un beso… ¡yo no sé 
+              p.mb-0.mr-cus qué te diera por un beso! 
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 28.
@@ -324,9 +324,9 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic “el terrible Caín”,
-              p.mb-0.mr-cus.fst-italic “la blanca nieve”
-              p.mb-0.mr-cus.fst-italic Verde prado, blanca nieve, rosadas mejillas,... 
+              p.mb-0.mr-cus “el terrible Caín”,
+              p.mb-0.mr-cus “la blanca nieve”
+              p.mb-0.mr-cus Verde prado, blanca nieve, rosadas mejillas,... 
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 29.
@@ -346,7 +346,7 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic El kikirikí del gallo me despertó.
+              p.mb-0.mr-cus El kikirikí del gallo me despertó.
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 30.
@@ -366,9 +366,9 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Vivo sin vivir en mí.
-              p.mb-0.mr-cus.fst-italic Y tan alta vida espero
-              p.mb-0.mr-cus.fst-italic Que muero porque no muero.
+              p.mb-0.mr-cus Vivo sin vivir en mí.
+              p.mb-0.mr-cus Y tan alta vida espero
+              p.mb-0.mr-cus Que muero porque no muero.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 31.
@@ -387,11 +387,11 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Ejemplo:
-              p.mb-0.mr-cus.fst-italic Allí́ los ríos caudales,
-              p.mb-0.mr-cus.fst-italic allí́ los otros, medianos 
-              p.mb-0.mr-cus.fst-italic y más chicos; 
-              p.mb-0.mr-cus.fst-italic allegados, son iguales.
+              p.mb-0.mr-cus Ejemplo:
+              p.mb-0.mr-cus Allí́ los ríos caudales,
+              p.mb-0.mr-cus allí́ los otros, medianos 
+              p.mb-0.mr-cus y más chicos; 
+              p.mb-0.mr-cus allegados, son iguales.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 32.
@@ -410,8 +410,8 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Le señaló la puerta (por echarlo de casa). 
-              p.mb-0.mr-cus.fst-italic Pasó a mejor vida (por morir).
+              p.mb-0.mr-cus Le señaló la puerta (por echarlo de casa). 
+              p.mb-0.mr-cus Pasó a mejor vida (por morir).
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 33.
@@ -431,8 +431,8 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Gocemos, sí; la cristalina esfera 
-              p.mb-0.mr-cus.fst-italic gira bañada en luz: ¡bella es la vida! 
+              p.mb-0.mr-cus Gocemos, sí; la cristalina esfera 
+              p.mb-0.mr-cus gira bañada en luz: ¡bella es la vida! 
             .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 34.
@@ -451,8 +451,8 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic Le hizo daño el sol → el calor del sol.
-              p.mb-0.mr-cus.fst-italic Carecer de pan → carecer de trabajo.
+              p.mb-0.mr-cus Le hizo daño el sol → el calor del sol.
+              p.mb-0.mr-cus Carecer de pan → carecer de trabajo.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 35.
@@ -471,11 +471,11 @@
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
                   | #[b Ejemplo:]
-              p.mb-0.mr-cus.fst-italic El mundo se reirá de ti.
-              p.mb-0.mr-cus.fst-italic El hombre es un ser mortal.
-              p.mb-0.mr-cus.fst-italic Un rebaño de cien cabezas.
-              p.mb-0.mr-cus.fst-italic El hombre fue hecho de barro. El salón se inquietaba.
-              p.mb-0.mr-cus.fst-italic Talaron la madera de la región.
+              p.mb-0.mr-cus El mundo se reirá de ti.
+              p.mb-0.mr-cus El hombre es un ser mortal.
+              p.mb-0.mr-cus Un rebaño de cien cabezas.
+              p.mb-0.mr-cus El hombre fue hecho de barro. El salón se inquietaba.
+              p.mb-0.mr-cus Talaron la madera de la región.
             .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 36.
@@ -501,12 +501,12 @@
             li.mb-0 
               i.fas.fa-circle.color-circle.mb-0
               | #[b Ejemplo:]
-          p.mb-0.mr-cus.fst-italic Los invisibles átomos del aire 
-          p.mb-0.mr-cus.fst-italic en derredor palpitan y se inflaman; 
-          p.mb-0.mr-cus.fst-italic solo se oirá la risa blanca de las estrellas persiguiendo a las sombras por todos los caminos. 
-          p.mb-0.mr-cus.fst-italic ... el viento de la noche gira en el cielo y canta...
-          p.mb-0.mr-cus.fst-italic ... y el agua se desliza presurosa y alegre por las piedras... 
-          p.mb-0.mr-cus.fst-italic ... el viento me habla de ti...
+          p.mb-0.mr-cus Los invisibles átomos del aire 
+          p.mb-0.mr-cus en derredor palpitan y se inflaman; 
+          p.mb-0.mr-cus solo se oirá la risa blanca de las estrellas persiguiendo a las sombras por todos los caminos. 
+          p.mb-0.mr-cus ... el viento de la noche gira en el cielo y canta...
+          p.mb-0.mr-cus ... y el agua se desliza presurosa y alegre por las piedras... 
+          p.mb-0.mr-cus ... el viento me habla de ti...
     ModalA(:abrir-modal.sync="modal2")
       .row
         .col-sm-12.col-lg-6.mb-0
@@ -515,13 +515,13 @@
             li.mb-0 
               i.fas.fa-circle.color-circle.mb-0
               | #[b Ejemplo:]
-          p.mb-0.mr-cus.fst-italic “Tengo un sueño que me muero”. 
-          p.mb-0.mr-cus.fst-italic  “Érase un hombre a una nariz pegado: 
-          p.mb-0.mr-cus.fst-italic  érase una nariz superlativa;
-          p.mb-0.mr-cus.fst-italic  érase una nariz sayón y escriba;
-          p.mb-0.mr-cus.fst-italic  érase un pez de espada muy barbado”. 
-          p.mb-0.mr-cus.fst-italic  "Tanto dolor se agrupa en mi costado / que, por doler me duele hasta el aliento”. 
-          p.mb-0.mr-cus.fst-italic  Si no regresas pronto a mi lado, moriré́ desangrado. 
+          p.mb-0.mr-cus “Tengo un sueño que me muero”. 
+          p.mb-0.mr-cus  “Érase un hombre a una nariz pegado: 
+          p.mb-0.mr-cus  érase una nariz superlativa;
+          p.mb-0.mr-cus  érase una nariz sayón y escriba;
+          p.mb-0.mr-cus  érase un pez de espada muy barbado”. 
+          p.mb-0.mr-cus  "Tanto dolor se agrupa en mi costado / que, por doler me duele hasta el aliento”. 
+          p.mb-0.mr-cus  Si no regresas pronto a mi lado, moriré́ desangrado. 
     ModalA(:abrir-modal.sync="modal3")
       .row
         .col-sm-12.col-lg-6.mb-0
@@ -530,12 +530,12 @@
             li.mb-0 
               i.fas.fa-circle.color-circle.mb-0
               | #[b Ejemplo:]
-          p.mb-0.mr-cus.fst-italic El cristal del agua. 
-          p.mb-0.mr-cus.fst-italic Nuestras vidas son los ríos 
-          p.mb-0.mr-cus.fst-italic que van a dar a la mar 
-          p.mb-0.mr-cus.fst-italic que es el morir…
-          p.mb-0.mr-cus.fst-italic ... la calle abierta como un ancho sueño...
-          p.mb-0.mr-cus.fst-italic ... los algodones blancos del cielo / tapizan el azul. 
+          p.mb-0.mr-cus El cristal del agua. 
+          p.mb-0.mr-cus Nuestras vidas son los ríos 
+          p.mb-0.mr-cus que van a dar a la mar 
+          p.mb-0.mr-cus que es el morir…
+          p.mb-0.mr-cus ... la calle abierta como un ancho sueño...
+          p.mb-0.mr-cus ... los algodones blancos del cielo / tapizan el azul. 
 
 </template>
 

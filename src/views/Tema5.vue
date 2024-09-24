@@ -28,7 +28,7 @@
             .col-sm-12.col-lg-5.m-auto
               img(src='@/assets/curso/temas/tema5/img2.svg')
           h4.title-card.bg4.text-white Línea directa
-          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si esta ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
+          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si está ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 11.
             span
