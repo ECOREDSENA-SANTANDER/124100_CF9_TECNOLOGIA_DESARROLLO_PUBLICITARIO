@@ -34,7 +34,7 @@
             span
               |  Línea directa
           figure.mb-5
-            img(src='@/assets/curso/temas/tema5/img5.png', alt='En la imagen se presenta sobre un reacuadro rojo    enjuaque bucal, crema dental  y estuche de crema dental  con cepillo de la marca Colgate en los que se señala el precio y en el lado derecho   la leyenda  “Que tu sonrisa sea tu mejor accesorio” y en la parte inferior la leyenda en letra blanca “Sonrisa asombrosamente blanca”')
+            img(src='@/assets/curso/temas/tema5/img5.png', alt='En la imagen se presenta sobre un reacuadro rojo enjuaque bucal, crema dental  y estuche de crema dental  con cepillo de la marca Colgate en los que se señala el precio y en el lado derecho   la leyenda  “Que tu sonrisa sea tu mejor accesorio” y en la parte inferior la leyenda en letra blanca “Sonrisa asombrosamente blanca”')
             figcaption Nota. Tomada de marca registrada Colgate (s.f.)
           
 
@@ -77,7 +77,7 @@
           |  Ejemplo textos publicitarios
     .bg9.px-5.py-4(data-aos="zoom-in-left")
       figure.mb-0.text-center
-        img.m-auto(src='@/assets/curso/temas/tema5/img8.svg', alt='En la imagen se presenta una motoacicleta y se señalan los diferentes ejemplos de textos publicitarios así:  antetítulo, título o encabezado, cuerpo o desarrollo, cierre o rúbrica, logotipo de marca, slogan')
+        img.m-auto(src='@/assets/curso/temas/tema5/img8.svg', alt='En la imagen se presenta una motocicleta y se señalan los diferentes ejemplos de textos publicitarios así:  antetítulo, título o encabezado, cuerpo o desarrollo, cierre o rúbrica, logotipo de marca, slogan')
     figcaption(data-aos="zoom-in-left") Nota. Tomada de marca registrada Kymco (s.f.)
 
 

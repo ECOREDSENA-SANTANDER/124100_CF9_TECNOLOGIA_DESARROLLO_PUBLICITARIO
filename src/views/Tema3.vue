@@ -22,7 +22,7 @@
                 span
                   |  Titular directo 
               figure
-                img(src='@/assets/curso/temas/tema3/img1.png', alt='La imagen presenta fotografía de una mujer con una botella de yogurt Gloria en la mano y en la parte superior se escribe   “Descubre el sabor de la vida” igualmente se presentan botellas de yogurt gloria de diferentes sabores, La escena se representa en un campo  en cuyo fondo hay una familia de cuatro integrantes rodeados de mariposas.')
+                img(src='@/assets/curso/temas/tema3/img1.png', alt='La imagen presenta fotografía de una mujer con una botella de yogurt Gloria en la mano y en la parte superior se escribe   “Descubre el sabor de la vida” igualmente se presentan botellas de yogurt gloria de diferentes sabores, la escena se representa en un campo  en cuyo fondo hay una familia de cuatro integrantes rodeados de mariposas.')
                 figcaption Nota. Tomada de marca registrada Yogurt Gloria (s.f.)
         
         .py-3.bg2.px-5
@@ -107,7 +107,7 @@
                 span
                   | Titular combinado
               figure
-                img(src='@/assets/curso/temas/tema3/img7.png', alt='La imaben presenta sobre un rectángulo de color rojo las palabra Coca Cola con sus letras más separadas que en su forma tradicional y en la parte inferior la leyenda en letras blancas  “Hoy, estar separados es la mejor manera de estar juntos”.')
+                img(src='@/assets/curso/temas/tema3/img7.png', alt='La imagen presenta sobre un rectángulo de color rojo las palabra Coca Cola con sus letras más separadas que en su forma tradicional y en la parte inferior la leyenda en letras blancas  “Hoy, estar separados es la mejor manera de estar juntos”.')
                 figcaption Nota. Tomada de marca registrada Coca-Cola (s.f.)            
 
         .py-3.bg2.px-5
