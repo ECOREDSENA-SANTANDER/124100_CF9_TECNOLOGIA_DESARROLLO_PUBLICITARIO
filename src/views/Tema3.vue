@@ -8,7 +8,7 @@
         span 3
       h1 Tipos de titulares
     
-    p.mb-5(data-aos="zoom-in-left") Cada campaña es única y particular y el mensaje con que se llega al mercado también. El diseño de los titulares debe estar vinculado y ser coherente con el concepto creativo; es decir, el tono de la comunicación y estilo con que se haya planeado el diseño; así, se pueden encontrar los siguientes:
+    p.mb-5(data-aos="zoom-in-left") Cada campaña es única y particular, y el mensaje con que se llega al mercado también. El diseño de los titulares debe estar vinculado y ser coherente con el concepto creativo; es decir, el tono de la comunicación y estilo con que se haya planeado el diseño; así, se pueden encontrar los siguientes:
     .bg1.px-5.px-sm-0.pt-2.pb-4(data-aos="zoom-in-left")
       SlyderA(tipo="b")
         .py-3.bg2.px-5
@@ -50,7 +50,7 @@
                 span
                   | Titular que hace referencia al nombre
               figure
-                img(src='@/assets/curso/temas/tema3/img3.png', alt='La figura presenta un empaue de  MILO  con la leyende  “Milo te da energía  ¡la meta la pones tu!  esto sobre u n rectángulo en fondo verde.')
+                img(src='@/assets/curso/temas/tema3/img3.png', alt='La figura presenta un empaque de  MILO  con la leyenda  “Milo te da energía  ¡la meta la pones tu!  esto sobre u n rectángulo en fondo verde.')
                 figcaption Nota. Tomada de marca registrada MILO (s.f.)
 
         .py-3.bg2.px-5
@@ -93,7 +93,7 @@
                 span
                   | Titular de segmentación
               figure
-                img(src='@/assets/curso/temas/tema3/img6.png', alt='La imagen contiene un paquete de protectores de la marca nosotras a su izquuierda  la leyende en inglés  “Contrary to popular belief women bleed blood”. Y a su derecha un protector señalado por un lapiz rojo.')
+                img(src='@/assets/curso/temas/tema3/img6.png', alt='La imagen contiene un paquete de protectores de la marca nosotras a su izquierda la leyenda en inglés  “Contrary to popular belief women bleed blood”. Y a su derecha un protector señalado por un lapiz rojo.')
                 figcaption Nota. Tomada de marca registrada Nosotras (s.f.)
 
         .py-3.bg2.px-5

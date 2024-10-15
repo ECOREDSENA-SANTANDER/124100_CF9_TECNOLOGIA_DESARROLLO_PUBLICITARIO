@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-8
-        p.mb-cus También conocido como #[i body copy], es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
+        p.mb-cus También conocido como #[i body copy], es el elemento en el que se realiza de forma completa la exposición de la marca, producto o servicio. #[b Cuando está bien realizado, apoya de forma eficaz al titular, al subtitular y a la imagen;] además, es interesante para el espectador. Sin embargo, que el texto sea interesante y atrape al lector depende de la manera estratégica como se escriba, que responda al global del mensaje y del concepto creativo y que hile el titular y la imagen, proporcionando información relevante para el posible comprador.
       .col-sm-12.col-lg-3
         .titulo-sexto.color-secundario
           h5 Figura 10.
@@ -28,13 +28,13 @@
             .col-sm-12.col-lg-5.m-auto
               img(src='@/assets/curso/temas/tema5/img2.svg')
           h4.title-card.bg4.text-white Línea directa
-          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si está ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
+          p.my-5.text-center Es un enfoque relacionado con los beneficios que el producto le ofrece al cliente; si esta ya se mencionó en el titular, el #[i body copy] resalta dichos beneficios y sus características principales.
           .titulo-sexto.color-secundario.mt-5
             h5 Figura 11.
             span
               |  Línea directa
           figure.mb-5
-            img(src='@/assets/curso/temas/tema5/img5.png', alt='En la imagen se presenta sobre un reacuadro rojo enjuaque bucal, crema dental  y estuche de crema dental  con cepillo de la marca Colgate en los que se señala el precio y en el lado derecho   la leyenda  “Que tu sonrisa sea tu mejor accesorio” y en la parte inferior la leyenda en letra blanca “Sonrisa asombrosamente blanca”')
+            img(src='@/assets/curso/temas/tema5/img5.png', alt='En la imagen se presenta sobre un reacuadro rojo enjuague bucal, crema dental  y estuche de crema dental  con cepillo de la marca Colgate en los que se señala el precio y en el lado derecho   la leyenda  “Que tu sonrisa sea tu mejor accesorio” y en la parte inferior la leyenda en letra blanca “Sonrisa asombrosamente blanca”')
             figcaption Nota. Tomada de marca registrada Colgate (s.f.)
           
 
@@ -110,7 +110,7 @@
           
           .row(titulo="Soportar datos")
             .col-sm-12.col-lg-12
-              p.mb-0.pl-cus En muchos anuncios un dato que parezca increíble puede generar desconfianza en el lector, de ahí la importancia de soportar con documentos y respaldos científicos si es necesario las afirmaciones que se hagan de este tipo.
+              p.mb-0.pl-cus En muchos anuncios, un dato que parezca increíble puede generar desconfianza en el lector, de ahí la importancia de soportar con documentos y respaldos científicos si es necesario las afirmaciones que se hagan de este tipo.
           
           .row(titulo="Evitar expresiones trilladas y superlativos")
             .col-sm-12.col-lg-12

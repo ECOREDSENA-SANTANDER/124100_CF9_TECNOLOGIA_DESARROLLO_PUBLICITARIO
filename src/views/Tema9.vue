@@ -85,7 +85,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Hipérbole:
-              p Figura retórica consistente en ofrecer una visión desproporcionada de una realidad, amplificándola o disminuyéndola, es exageración. El poeta desea dar a sus palabras una mayor intensidad o emoción. #[b La hipérbole se concreta en el uso de términos enfáticos y expresiones exageradas. ] Este procedimiento es utilizado con frecuencia en el lenguaje coloquial y en la propaganda. En esta última se produce una comunicación encomiástica (alabanza) desmesurada con el fin de provocar en el oyente la adhesión a su mensaje en el que todo se revela como “excepcional”, “extraordinario”, “colosal”, “fantástico”, etc. 
+              p Figura retórica consistente en ofrecer una visión desproporcionada de una realidad, amplificándola o disminuyéndola, es exageración. El poeta desea dar a sus palabras una mayor intensidad o emoción. #[b La hipérbole se concreta en el uso de términos enfáticos y expresiones exageradas. ] Este procedimiento es utilizado con frecuencia en el lenguaje coloquial y en la propaganda. En esta última se produce una comunicación encomiástica (alabanza) desmesurada con el fin de provocar en el oyente la adhesión a su mensaje, en el que todo se revela como “excepcional”, “extraordinario”, “colosal”, “fantástico”, etc. 
               a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
                 span.fw-bold.px-5 Ejemplo
                 .indicador--click(v-if="mostrarIndicador") 
@@ -319,7 +319,7 @@
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Epíteto: 
-              p Es el adjetivo, que colocado delante del sustantivo expresa una cualidad innecesaria o inherente de alguna persona o cosa con fines estéticos.
+              p Es el adjetivo, que colocado delante del sustantivo, expresa una cualidad innecesaria o inherente de alguna persona o cosa con fines estéticos.
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
@@ -398,14 +398,14 @@
                 span
                   |   Perífrasis 
               figure
-                img(src='@/assets/curso/temas/tema9/img19.png', alt='La imagen presenta un conjunto de tablas  dispuestas sobre pupitres y partidas a la mitad con el logo de  katate school')
+                img(src='@/assets/curso/temas/tema9/img19.png', alt='La imagen presenta un conjunto de tablas  dispuestas sobre pupitres y partidas a la mitad con el logo de  karate school')
               figcaption Nota. Tomada de marca registrada S.R. Monza karate School (s.f.)
 
         .py-3.bg2.px-5
           .row
             .col-sm-12.col-lg-7.mb-0.mt-5
               .h4 Eufemismo: 
-              p Es la perífrasis que se emplea para evitar una expresión penosa u horrenda, grosera o malsonante. Forma de expresión amable para ocultar o disimular algo desagradable o tabú́.
+              p Es la perífrasis que se emplea para evitar una expresión penosa u horrenda, grosera o malsonante. Forma de expresión amable para ocultar o disimular algo desagradable o tabú.
               ul.lista-ul--separador.mb-0
                 li.mb-0 
                   i.fas.fa-circle.color-circle.mb-0
